@@ -10,6 +10,7 @@
 # batteries
 # fans
 # power-supply
+# rack             Rack hardware
 # ultra320         Ultra320 SCSI devices.
 #
 ./apple                svn+ssh://home/data/svnroot/00HARDWARE/apple
@@ -17,4 +18,5 @@
 ./drives               svn+ssh://home/data/svnroot/00HARDWARE/drives
 ./fans                 svn+ssh://home/data/svnroot/00HARDWARE/fans
 ./power-supply         svn+ssh://home/data/svnroot/00HARDWARE/power-supply
+./rack                 svn+ssh://home/data/svnroot/00HARDWARE/rack
 ./ultra320             svn+ssh://home/data/svnroot/00HARDWARE/ultra320
