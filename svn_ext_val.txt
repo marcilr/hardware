@@ -23,7 +23,6 @@
 #
 ./apple                svn+ssh://home/data/svnroot/00HARDWARE/apple
 ./batteries            svn+ssh://home/data/svnroot/00HARDWARE/batteries
-./drives               svn+ssh://home/data/svnroot/00HARDWARE/drives
 ./fans                 svn+ssh://home/data/svnroot/00HARDWARE/fans
 ./power-supply         svn+ssh://home/data/svnroot/00HARDWARE/power-supply
 ./SC512L               svn+ssh://home/data/svnroot/00HARDWARE/SC512L
