@@ -1,0 +1,10 @@
+#
+# svn_ext_val.txt
+# Created Fri Aug 19 08:11:32 AKDT 2011
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+#
+# List of subversion repositories to checkout under 00HARDWARE/
+#
+./batteries            svn+ssh://home/data/svnroot/batteries
