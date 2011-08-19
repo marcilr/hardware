@@ -8,4 +8,5 @@
 # List of subversion repositories to checkout under 00HARDWARE/
 #
 ./batteries            svn+ssh://home/data/svnroot/00HARDWARE/batteries
+./fans                 svn+ssh://home/data/svnroot/00HARDWARE/fans
 ./power-supply         svn+ssh://home/data/svnroot/00HARDWARE/power-supply
