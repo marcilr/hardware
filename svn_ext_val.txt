@@ -8,7 +8,8 @@
 #
 # List of repo hierarchical directories to checkout under svn/
 #
-./00DRIVES             svn+ssh://home/data/svnroot/00HARDWARE/00DRIVES/00DRIVES
+./00CONTROLLERS   svn+ssh://home/data/svnroot/00HARDWARE/00CONTROLLERS/00CONTROLLERS
+./00DRIVES        svn+ssh://home/data/svnroot/00HARDWARE/00DRIVES/00DRIVES
 
 
 #
