@@ -17,6 +17,7 @@
 # apple            Apple computer
 # batteries
 # fans
+# power-strip
 # power-supply
 # rack             Rack hardware
 # SC512L           14" SuperMicro SC512L case with an AMD Sempron processor.
@@ -26,6 +27,7 @@
 ./apple                svn+ssh://home/data/svnroot/00HARDWARE/apple
 ./batteries            svn+ssh://home/data/svnroot/00HARDWARE/batteries
 ./fans                 svn+ssh://home/data/svnroot/00HARDWARE/fans
+./power-strip          svn+ssh://home/data/svnroot/00HARDWARE/power-strip
 ./power-supply         svn+ssh://home/data/svnroot/00HARDWARE/power-supply
 ./SC512L               svn+ssh://home/data/svnroot/00HARDWARE/SC512L
 ./rack                 svn+ssh://home/data/svnroot/00HARDWARE/rack
