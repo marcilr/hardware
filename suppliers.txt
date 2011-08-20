@@ -1,0 +1,15 @@
+suppliers.txt
+Created Tue Jan 17 10:56:36 AKST 2006
+by Raymond E. Marcil
+
+
+A random location of computing suppliers.
+
+
+From google search for "rack shelfs":
+  http://www.server-rack-online.com/rack-mount-shelf.html
+  Rack Mount Shelves
+  Rack Shelves for 2 & 4-Post Racks and Enclosures
+  Good looking shelves at this site.
+
+  
