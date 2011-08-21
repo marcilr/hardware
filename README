@@ -5,3 +5,13 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Hardware repo of repos.
 
+Filelist
+========
+bluetooth.html
+  Bluetooth hardware support for BlueZ (Official Linux Bluetooth protocol stack)
+  by Marcel Holtmann
+  Bluetooth PCMCIA and Compact Flash cards
+  Created on February 20, 2002
+  Last modification on January 16, 2005
+  http://www.holtmann.org/linux/bluetooth/devices.html
+
