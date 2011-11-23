@@ -12,6 +12,7 @@
 ./00CPU           svn+ssh://home/data/svnroot/00HARDWARE/00CPU/00CPU
 ./00DRIVES        svn+ssh://home/data/svnroot/00HARDWARE/00DRIVES/00DRIVES
 ./00MOBOS         svn+ssh://home/data/svnroot/00HARDWARE/00MOBOS/00MOBOS
+./00NET           svn+ssh://home/data/svnroot/00HARDWARE/00NET/00NET
 ./00PRINTERS      svn+ssh://home/data/svnroot/00HARDWARE/00PRINTERS
 ./00WIRELESS      svn+ssh://home/data/svnroot/00HARDWARE/00WIRELESS/00WIRELESS
 
