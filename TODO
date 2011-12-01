@@ -7,5 +7,18 @@ by Raymond E. Marcil <marcilr@gmail.com>
 controller with both DVI and VGA connectors.  Compatibility with X.Org is
 required.
 
+PNY VCG84512R3SXPB GeForce 8400 GS 512MB 64-bit DDR2 
+PCI Express 2.0 x16 HDCP Ready Low Profile Ready Video Card
+o nVidia
+o fanless
+o ports: 
+  1x HDMI
+  1x D-SUB <== VGA
+  1x DVI
+o Model #: VCG84512R3SXPB
+o Item #: N82E16814133362
+$29.99 (newegg - Dec 1, 2011
+
+
 +++ Thu Dec  1 09:18:34 AKST 2011 - Is there a great site to verify linux hardware
 compatibility?
