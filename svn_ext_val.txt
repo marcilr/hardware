@@ -21,6 +21,7 @@
 # all-in-one       Brother MFC-9840CDW all-in-one.
 # apple            Apple computer
 # batteries
+# cablecard        CableCARD, for cable tv access, info.
 # fans
 # power-strip
 # power-supply
@@ -32,6 +33,7 @@
 ./all-in-one           svn+ssh://home/data/svnroot/00HARDWARE/all-in-one
 ./apple                svn+ssh://home/data/svnroot/00HARDWARE/apple
 ./batteries            svn+ssh://home/data/svnroot/00HARDWARE/batteries
+./cablecard            svn+ssh://home/data/svnroot/00HARDWARE/cablecard
 ./fans                 svn+ssh://home/data/svnroot/00HARDWARE/fans
 ./power-strip          svn+ssh://home/data/svnroot/00HARDWARE/power-strip
 ./power-supply         svn+ssh://home/data/svnroot/00HARDWARE/power-supply
