@@ -1,0 +1,88 @@
+dell-1908fp-lcd.txt
+Created Tue Oct 13 21:12:33 AKDT 2009
+by Raymond E. Marcil
+
+
+Purchased 4x new Dell Ultrasharp 1908FP flat panel displays for malachite, the rack and 
+Shena's workstation.  Cost $219 each, $108 FedEx shipping for a total of $984.00.  Best 
+display I've ever owned!  
+
+
+make:               Dell
+model:              Ultrasharp 1908FP
+customer account:   105661252
+size:               19"
+connectors:         VGA, DVI, 4x USB, 1x square USB, 12V audio, power
+item number:        4x 320-7687 Dell Ultrasharp 1908FP Flat Panel
+warranty:           4x 986-4872 3YR Limited Warranty Monitor, Advanced Exchange 
+order date:         10/11/09
+delivery date:      10/13/09
+price:              4x $219 = $876.00
+shipping (Fedex):   $108.00
+total:              $984.00
+
+
+From 1908FP boxes:
+
+Dell 1908FP malachite (Oct 14, 2009):
+  DP/N: 0F028J
+  S/N: CN-0F028J-72872-995-0TVS
+  REV A00
+  Made in China
+
+Dell 1908FP rack (Oct 13, 2009):
+  DP/N: 0F028J
+  S/N: CN-0F028J-72872-995-0TYS
+  REV A00
+  Made in China
+
+Parts in box:
+  1x Dell Ultrasharp 1908FP flat panel
+  1x Display stand
+  1x DVI cable (length?)
+  1x VGA cable (length?)
+  1x USB cable (length?) with standard and square end.
+  1x power cable
+
+
+Tue Oct 13 21:08:51 AKDT 2009
+=============================
+Got home and Shena had found FedEx door tag.  Swung by the airport and picked up the 4x Dell 
+19" 1908FP lcd displays.  Unpacked one and attached to the KVM on the rack in the garage.  
+VGA hooked up no problem.  Sweet!
+
+
+Sun Oct 11 11:21:37 AKDT 2009
+=============================
+Really like my dual 19" Dell LCD displays at UAA ITS attached to Dell Optiplex 755 
+workstation.  These are Dell 1901FP 19" LCDs with DVI-D, and VGA inputs.
+Purchasing 4x 19" Dell UltraSharp 1908FP for home use.
+
+
+My System Details
+-----------------
+DELL MONITOR       Dell UltraSharp 1908FP Black 19-inch Flat Panel Monitor 
+                   with Height Adjustable Stand 
+LIMITED WARRANTY   3Yr PREMIUM PANEL Ltd. Warranty, 3 yr Advanced Exchange
+
+4x Dell 1908FP Black     $219.00 = $876.00
+shipping & handling                $108.00
+                         =================
+                         Total:    $984.00 
+
+Your Dell Purchase ID is: 2001517117160 
+Order Number: 909322699
+Customer Number: 105661252
+Tracking/Bill of Lading No.: 423968766212
+Quantity: 4
+Total Wt: 65.2
+Product Description:
+  Dell UltraSharp 1908FP Flat   Panel,Black, w/Height Adjustable Stand,
+  19.0 Inch VISOptiPlex, Precision, Latitude, Cu
+
+4x Item Number:   320-7687 Dell UltraSharp 1908FP Flat Panel
+4x Item Number:   986-4872 3YR Limited Warranty Monitor, Advanced Exchange
+
+Put on classic.
+
+from: 20091011-dell-1908fp-lcd.txt
