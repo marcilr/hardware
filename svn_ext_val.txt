@@ -6,7 +6,7 @@
 
 
 #
-# List of repo hierarchical directories to checkout under svn/
+# List of repo hierarchical directories to checkout under 00HARDWARE/
 #
 ./00APPLIANCES    svn+ssh://home/data/svnroot/00HARDWARE/00APPLIANCES/00APPLIANCES
 ./00CABLES        svn+ssh://home/data/svnroot/00HARDWARE/00CABLES/00CABLES
