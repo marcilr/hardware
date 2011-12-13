@@ -9,6 +9,7 @@
 # List of repo hierarchical directories to checkout under svn/
 #
 ./00APPLIANCES    svn+ssh://home/data/svnroot/00HARDWARE/00APPLIANCES/00APPLIANCES
+./00CABLES        svn+ssh://home/data/svnroot/00HARDWARE/00CABLES/00CABLES
 ./00CHASSIS       svn+ssh://home/data/svnroot/00HARDWARE/00CHASSIS/00CHASSIS
 ./00CONTROLLERS   svn+ssh://home/data/svnroot/00HARDWARE/00CONTROLLERS/00CONTROLLERS
 ./00CPU           svn+ssh://home/data/svnroot/00HARDWARE/00CPU/00CPU
