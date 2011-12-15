@@ -19,7 +19,9 @@
 ./00MOBOS         svn+ssh://home/data/svnroot/00HARDWARE/00MOBOS/00MOBOS
 ./00NET           svn+ssh://home/data/svnroot/00HARDWARE/00NET/00NET
 ./00RAM           svn+ssh://home/data/svnroot/00HARDWARE/00RAM/00RAM
+./00VIDEO         svn+ssh://home/data/svnroot/00HARDWARE/00VIDEO/00VIDEO
 ./00WIRELESS      svn+ssh://home/data/svnroot/00HARDWARE/00WIRELESS/00WIRELESS
+
 
 #
 # List of subversion repositories to checkout under 00HARDWARE/
