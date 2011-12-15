@@ -16,9 +16,9 @@
 ./00DRIVES        svn+ssh://home/data/svnroot/00HARDWARE/00DRIVES/00DRIVES
 ./00GRAPHICS      svn+ssh://home/data/svnroot/00HARDWARE/00GRAPHICS/00GRAPHICS
 ./00KVM           svn+ssh://home/data/svnroot/00HARDWARE/00KVM/00KVM
+./00MEMORY        svn+ssh://home/data/svnroot/00HARDWARE/00MEMORY/00MEMORY
 ./00MOBOS         svn+ssh://home/data/svnroot/00HARDWARE/00MOBOS/00MOBOS
 ./00NET           svn+ssh://home/data/svnroot/00HARDWARE/00NET/00NET
-./00RAM           svn+ssh://home/data/svnroot/00HARDWARE/00RAM/00RAM
 ./00VIDEO         svn+ssh://home/data/svnroot/00HARDWARE/00VIDEO/00VIDEO
 ./00WIRELESS      svn+ssh://home/data/svnroot/00HARDWARE/00WIRELESS/00WIRELESS
 
