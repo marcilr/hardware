@@ -1,0 +1,53 @@
+verilux-bedside-light.txt 
+Created Wed Dec 30 16:03:17 AKST 2009
+by Raymond E. Marcil
+
+
+Shena purchased a fine bedside light that brightens and produces 
+nature sounds.  Really a very nice alarm clock.
+
+make:   Verilux, Inc.
+        9 Viaduct Road
+        Stamford, CT 06907
+        Life In a Better Light
+        http://www.healthylight.com
+model:  VA02AA3
+color:  ivory
+size:   15.3" x 9.8" x 19"
+weight: 8.40 lbs
+description: Verilux Rise & Shine Natural Alarm Clock Deluxe
+             Bedside Lamp, Ivory
+made in: China
+warranty: 3 year limited
+patent: 6,236,622
+price: $149.95 (amazon.com Nov 13, 2009)
+       order id: 002-8520220-0307467
+
+Features
+========
+o Brightness claims, including the effects of scotopic lumens, are 
+based on scientific studies conducted at Lawrence Berkeley National
+Laboratory.
+o Natural spectrum xenon bulb - Energy efficient, super bright, xenon 
+technology fills the room with energizing light.
+o Eight soothing nature sounds - Gently fall asleep and awaken 
+to digitally mastered nature sounds.
+o Wake feature - Gradually increase light and sound over 5, 10, 30, 
+or 60 minutes for a natural start to your day.  Programmable waking
+modes include:
+- Natural Spectrum Light
+- Soothing Nature Sounds or Radio
+- Light and Sound togethor
+o Color Options - Customize the lighted display to suit your decor 
+and mood with 7 different color optons.
+o Lampshade - Linen lampshade matches any decor.
+o High-fidelity mylar speaker - Reproduces digitally mastered
+recordings and radio broadcasts with rich sound quality.
+o Manual dimming control - Adjust light for comfortable reading
+or ambiant bedroom lighting.
+o Snooze/alarm reset - Tap the snooze bar once for a few more 
+minutes of sleep, or hold down to automatically reset alarm for 
+the same wake time tomorrow.
+o AM/FM radio - Use with alarm clock or alone.
+o Sleep feature - Gradually decrease light and sound over 5, 10,
+30, or 60 minutes to help you drift naturally off to sleep.
