@@ -34,7 +34,6 @@
 # power-strip
 # power-supply
 # rack             Rack hardware
-# SC512L           14" SuperMicro SC512L case with an AMD Sempron processor.
 # STBN1030         GCT-AllWell STBN1030 set top box.
 # ups              Uninterruptible Power Supplies
 #
@@ -48,7 +47,6 @@
 ./mp3-player           svn+ssh://home/data/svnroot/00HARDWARE/mp3-player
 ./power-strip          svn+ssh://home/data/svnroot/00HARDWARE/power-strip
 ./power-supply         svn+ssh://home/data/svnroot/00HARDWARE/power-supply
-./SC512L               svn+ssh://home/data/svnroot/00HARDWARE/SC512L
 ./STBN1030             svn+ssh://home/data/svnroot/00HARDWARE/STBN1030
 ./rack                 svn+ssh://home/data/svnroot/00HARDWARE/rack
 ./ups                  svn+ssh://home/data/svnroot/00HARDWARE/ups
