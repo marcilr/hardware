@@ -30,6 +30,7 @@
 # batteries
 # cablecard        CableCARD, for cable tv access, info.
 # fans
+# fpga             Field Programmable Gate Array
 # hhk-lite2        The Happy Hacking Keyboard.
 # power-strip
 # power-supply
@@ -43,6 +44,7 @@
 ./batteries            svn+ssh://home/data/svnroot/00HARDWARE/batteries
 ./cablecard            svn+ssh://home/data/svnroot/00HARDWARE/cablecard
 ./fans                 svn+ssh://home/data/svnroot/00HARDWARE/fans
+./fpga                 svn+ssh://home/data/svnroot/00HARDWARE/fpga
 ./hhk-lite2            svn+ssh://home/data/svnroot/00HARDWARE/hhk-lite2
 ./power-strip          svn+ssh://home/data/svnroot/00HARDWARE/power-strip
 ./power-supply         svn+ssh://home/data/svnroot/00HARDWARE/power-supply
