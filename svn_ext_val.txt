@@ -19,7 +19,6 @@
 ./00MEMORY        svn+ssh://home/data/svnroot/00HARDWARE/00MEMORY/00MEMORY
 ./00MOBOS         svn+ssh://home/data/svnroot/00HARDWARE/00MOBOS/00MOBOS
 ./00NET           svn+ssh://home/data/svnroot/00HARDWARE/00NET/00NET
-./00VIDEO         svn+ssh://home/data/svnroot/00HARDWARE/00VIDEO/00VIDEO
 ./00WIRELESS      svn+ssh://home/data/svnroot/00HARDWARE/00WIRELESS/00WIRELESS
 
 
