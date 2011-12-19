@@ -27,6 +27,7 @@
 
 #
 # List of subversion repositories to checkout under 00HARDWARE/
+#
 # all-in-one       Brother MFC-9840CDW all-in-one.
 # apple            Apple computer
 # batteries
