@@ -1,0 +1,13 @@
+deprecated.txt
+Created Mon Dec 19 11:03:11 AKST 2011
+by Raymond E. Marcil <marcilr#gmail.com>
+
+
+Deprecated hardware to eliminate:
+  hardware/pci/AHA-3940UW
+  hardware/pci/BCM57XX
+  hardware/pci/LSI21320 
+  hardware/pci/LSIU160
+  hardware/pci/sapphire (display card)
+  hardware/pci/silicon_image/SD-SATA-4LP
+  hardware/pci/TX4
