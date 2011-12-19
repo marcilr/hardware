@@ -14,6 +14,7 @@
 ./00CONTROLLERS   svn+ssh://home/data/svnroot/00HARDWARE/00CONTROLLERS/00CONTROLLERS
 ./00CPU           svn+ssh://home/data/svnroot/00HARDWARE/00CPU/00CPU
 ./00DRIVES        svn+ssh://home/data/svnroot/00HARDWARE/00DRIVES/00DRIVES
+./00FIREWIRE      svn+ssh://home/data/svnroot/00HARDWARE/00FIREWIRE/00FIREWIRE 
 ./00GRAPHICS      svn+ssh://home/data/svnroot/00HARDWARE/00GRAPHICS/00GRAPHICS
 ./00KVM           svn+ssh://home/data/svnroot/00HARDWARE/00KVM/00KVM
 ./00MEMORY        svn+ssh://home/data/svnroot/00HARDWARE/00MEMORY/00MEMORY
