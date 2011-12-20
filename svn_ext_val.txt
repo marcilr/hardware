@@ -17,6 +17,7 @@
 ./00FIREWIRE      svn+ssh://home/data/svnroot/00HARDWARE/00FIREWIRE/00FIREWIRE 
 ./00GRAPHICS      svn+ssh://home/data/svnroot/00HARDWARE/00GRAPHICS/00GRAPHICS
 ./00KVM           svn+ssh://home/data/svnroot/00HARDWARE/00KVM/00KVM
+./00LOCKS         svn+ssh://home/data/svnroot/00HARDWARE/00LOCKS/00LOCKS 
 ./00MEMORY        svn+ssh://home/data/svnroot/00HARDWARE/00MEMORY/00MEMORY
 ./00MOBOS         svn+ssh://home/data/svnroot/00HARDWARE/00MOBOS/00MOBOS
 ./00NET           svn+ssh://home/data/svnroot/00HARDWARE/00NET/00NET
