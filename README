@@ -11,6 +11,13 @@ Mon Dec 19 22:02:30 AKST 2011
 Have finally finished migrating bornite's /data/svnroot/hardware repo to 
 /data/svnroot/00HARDWARE repo of hierarchical directories.
 
+Use "dav" as a repo metric looks like 00HARDWARE has 143 repos:
+
+marcilr@bornite:/data/svnroot/00HARDWARE$ find . -name dav | wc -l
+143
+marcilr@bornite:/data/svnroot/00HARDWARE$
+
+
 Old hardware repo had datestamps of:
 
 marcilr@malachite:~/svn$ svn log hardware
