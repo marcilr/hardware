@@ -5,6 +5,44 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Hardware repo of repos.
 
+Mon Dec 19 22:02:30 AKST 2011
+=============================
+Have finally finished migrating bornite's /data/svnroot/hardware repo to 
+/data/svnroot/00HARDWARE repo of hierarchical directories.
+
+Old hardware repo had datestamps of:
+
+marcilr@malachite:~/svn$ svn log hardware
+------------------------------------------------------------------------
+r10675 | marcilr | 2011-12-19 22:03:49 -0900 (Mon, 19 Dec 2011) | 2 lines
+
+Migrated to 00HARDWARE/00DRIVES/00FLASH-DRIVES/00PNY/mini-attache repo.
+
+------------------------------------------------------------------------
+r10674 | marcilr | 2011-12-19 21:56:31 -0900 (Mon, 19 Dec 2011) | 2 lines
+
+Migrated to 00HARDWARE/00DRIVES/00FLASH-DRIVES/00SANDISK/
+
+------------------------------------------------------------------------
+r10673 | marcilr | 2011-12-19 21:55:39 -0900 (Mon, 19 Dec 2011) | 2 lines
+
+Migrated to 00HARDWARE/00DRIVES/00FLASH-DRIVES/00SANDISK/SDDR-103 repo.
+
+------------------------------------------------------------------------
+...
+------------------------------------------------------------------------
+r1 | (no author) | 2008-05-16 22:30:27 -0800 (Fri, 16 May 2008) | 1 line
+
+
+------------------------------------------------------------------------
+marcilr@malachite:~/svn$ 
+
+The the hardware repo had datestamps of 2008-05-16 to 2011-12-19.
+Solid 3 years of service.  Thankful I''ve got it broken up to the new
+00HARDWARE repo.  Took a few months of intermittent work.
+
+
+
 Filelist
 ========
 bluetooth.html
