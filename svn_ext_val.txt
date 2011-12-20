@@ -23,6 +23,7 @@
 ./00NET           svn+ssh://home/data/svnroot/00HARDWARE/00NET/00NET
 ./00RAID          svn+ssh://home/data/svnroot/00HARDWARE/00RAID/00RAID
 ./00SERVERS       svn+ssh://home/data/svnroot/00HARDWARE/00SERVERS/00SERVERS
+./00UPC           svn+ssh://home/data/svnroot/00HARDWARE/00UPC/00UPC
 ./00WIRELESS      svn+ssh://home/data/svnroot/00HARDWARE/00WIRELESS/00WIRELESS
 
 
