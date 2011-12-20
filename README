@@ -5,6 +5,7 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Hardware repo of repos.
 
+
 Mon Dec 19 22:02:30 AKST 2011
 =============================
 Have finally finished migrating bornite's /data/svnroot/hardware repo to 
@@ -38,10 +39,54 @@ r1 | (no author) | 2008-05-16 22:30:27 -0800 (Fri, 16 May 2008) | 1 line
 marcilr@malachite:~/svn$ 
 
 The the hardware repo had datestamps of 2008-05-16 to 2011-12-19.
-Solid 3 years of service.  Thankful I''ve got it broken up to the new
+Solid 3 years of service.  Thankful I've got it broken up to the new
 00HARDWARE repo.  Took a few months of intermittent work.
 
+marcilr@bornite:/data/svnroot$ date
+Mon Dec 19 22:17:16 AKST 2011
+marcilr@bornite:/data/svnroot$ du -m hardware/
+1       hardware/dav
+493     hardware/db/revs
+42      hardware/db/revprops
+40      hardware/db/transactions/9342-1.txn
+40      hardware/db/transactions
+575     hardware/db
+1       hardware/conf
+1       hardware/locks
+1       hardware/hooks
+1       hardware/mp3-player/dav
+1       hardware/mp3-player/db/revs
+1       hardware/mp3-player/db/revprops
+1       hardware/mp3-player/db/transactions
+1       hardware/mp3-player/db
+1       hardware/mp3-player/conf
+1       hardware/mp3-player/locks
+1       hardware/mp3-player/hooks
+1       hardware/mp3-player
+575     hardware/
+marcilr@bornite:/data/svnroot$
 
+marcilr@bornite:/data/svnroot$ date
+Mon Dec 19 22:17:51 AKST 2011
+marcilr@bornite:/data/svnroot$ du -m 00HARDWARE/
+1       00HARDWARE/ups/dav
+1       00HARDWARE/ups/db/revs
+1       00HARDWARE/ups/db/revprops
+...
+171     00HARDWARE/
+marcilr@bornite:/data/svnroot$
+
+From refactoring the hardware data went from 575MB to 171MB for a savings
+of 575MB - 171MB = 404MB.  Not bad at all.
+
+Remove old repo:
+
+marcilr@bornite:/data/svnroot$ time rm -rf hardware/
+
+real    0m1.878s
+user    0m0.004s
+sys     0m0.396s
+marcilr@bornite:/data/svnroot$ 
 
 Filelist
 ========
