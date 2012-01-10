@@ -6,6 +6,7 @@ by Raymond E. Marcil <marcilr@gmail.com>
 +++ Tue Jan 10 14:31:05 AKST 2012 - Buildup of Chenbro RM41416T2-T NAS.
 
 o Gigabyte GA-990FXA-UD7 motherboard                             - $249.99
+  NOTE: This mobo only has 1x NIC, and lacks IMPI (???)
 o Supermicro AOC-SAS2LP-MV8 - 8-channel, PCIe x8, 6 Gb/s SATA,   -  $97.26
   2x 2 SFF 8087 connectors, linux support, Marvell 9480 chipset. 
 
