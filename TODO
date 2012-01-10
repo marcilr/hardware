@@ -7,10 +7,25 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 o Gigabyte GA-990FXA-UD7 motherboard                             - $249.99
   NOTE: This mobo only has 1x NIC, and lacks IMPI (???)
+o AMD FX-6100 Zambezi 3.3GHz Socket AM3+ 95W Six-Core            - $159.99
 o Supermicro AOC-SAS2LP-MV8 - 8-channel, PCIe x8, 6 Gb/s SATA,   -  $97.26
   2x 2 SFF 8087 connectors, linux support, Marvell 9480 chipset. 
 
+Mobo requirements:
+o AMD 6-core bulldozer processor.
+o 2x 1Gb/s nics
+o IPMI 2.0 - remote monitoring and administration.
 
+AMD FX-6100 Zambezi 3.3GHz Socket AM3+ 95W Six-Core Desktop Processor FD6100WMGUSBX
+o Series: FX-Series
+o Socket: AM3+
+o L2 Cache: 6MB
+o L3 Cache: 8MB
+o Manufacturing Tech: 32 nm
+o Heatsink and Fan included
+o Model #: FD6100WMGUSBX
+o Item #: N82E16819103962
+price: $159.99 (newegg - Jan 10, 2012)
 
 +++ Thu Dec  1 09:18:34 AKST 2011 - Is there an inexpensive PCIe x1 or x16 video 
 controller with both DVI and VGA connectors.  Compatibility with X.Org is
