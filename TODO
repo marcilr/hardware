@@ -8,6 +8,8 @@ by Raymond E. Marcil <marcilr@gmail.com>
 o Gigabyte GA-990FXA-UD7 motherboard                             - $249.99
   NOTE: This mobo only has 1x NIC, and lacks IMPI (???)
 o AMD FX-6100 Zambezi 3.3GHz Socket AM3+ 95W Six-Core            - $159.99
+o PCIe slots x16 and x8 preferred.
+o Onboard video.
 o Supermicro AOC-SAS2LP-MV8 - 8-channel, PCIe x8, 6 Gb/s SATA,   -  $97.26
   2x 2 SFF 8087 connectors, linux support, Marvell 9480 chipset. 
 
