@@ -3,6 +3,14 @@ Created Thu Dec  1 09:18:12 AKST 2011
 by Raymond E. Marcil <marcilr@gmail.com>
 
 
++++ Tue Jan 10 14:31:05 AKST 2012 - Buildup of Chenbro RM41416T2-T NAS.
+
+o Gigabyte GA-990FXA-UD7 motherboard                             - $249.99
+o Supermicro AOC-SAS2LP-MV8 - 8-channel, PCIe x8, 6 Gb/s SATA,   -  $97.26
+  2x 2 SFF 8087 connectors, linux support, Marvell 9480 chipset. 
+
+
+
 +++ Thu Dec  1 09:18:34 AKST 2011 - Is there an inexpensive PCIe x1 or x16 video 
 controller with both DVI and VGA connectors.  Compatibility with X.Org is
 required.
