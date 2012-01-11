@@ -5,18 +5,38 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 +++ Tue Jan 10 14:31:05 AKST 2012 - Buildup of Chenbro RM41416T2-T NAS.
 
-o Gigabyte GA-990FXA-UD7 motherboard                             - $249.99
-  NOTE: This mobo only has 1x NIC, and lacks IMPI (???)
-o AMD FX-6100 Zambezi 3.3GHz Socket AM3+ 95W Six-Core            - $159.99
+o Supermicro H8SCM-F                                             - $240.70
+o AMD C32 3.3Ghz 95W six-core                                    - $269.99
+o Crucial CT2KIT102472BW1339 (2x 8GB)                            - $399.99 
 o PCIe slots x16 and x8 preferred.
 o Onboard video.
 o Supermicro AOC-SAS2LP-MV8 - 8-channel, PCIe x8, 6 Gb/s SATA,   -  $97.26
   2x 2 SFF 8087 connectors, linux support, Marvell 9480 chipset. 
+                                                           ---------------
+                                                           Total: 1,007.94  
+
 
 Mobo requirements:
 o AMD 6-core bulldozer processor.
 o 2x 1Gb/s nics
 o IPMI 2.0 - remote monitoring and administration.
+
+Supermicro Opteron 4000 series is all Socket C32.
+  3.1Ghz 95W six-core - $199.99
+  3.3Ghz 95W six-core - $269.99 <==
+  2.8Ghz 65W six-core - $289.99 
+
+  H8SCM-F <== best yet (not on newegg)
+  o Up to 64GB DDR3 Registered ECC or 16GB DDR3 Unb. ECC/non-ECC
+    1600/1333/1066 SDRAM in 4 DIMMs
+  http://www.costcentral.com/proddetail/SUPERMICRO_H8SCM_F/MBDH8SCMF/11194180/ - $240.70
+
+Crucial memory adviser recommends (H8SCM-F)
+  16GB kit (8GBx2)  
+  DDR3 PC3-10600, CL=9, Dual Ranked, Registered, ECC, DDR3-1333, 1.35V, 1024Meg x 72
+  Low Profile
+  Part #: CT2KIT102472BW1339
+  $399.99 (crucial - Jan 20, 2012) Would then purchase 16GB more at latter date.
 
 AMD FX-6100 Zambezi 3.3GHz Socket AM3+ 95W Six-Core Desktop Processor FD6100WMGUSBX
 o Series: FX-Series
