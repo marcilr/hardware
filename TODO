@@ -22,10 +22,10 @@ o 2x 1Gb/s nics
 o IPMI 2.0 - remote monitoring and administration.
 
 Supermicro Opteron 4000 series is all Socket C32.
-  3.1Ghz 95W six-core - $199.99
-  3.3Ghz 95W six-core - $269.99 <==
-  3.0Ghz 95W 8-core   - #349.99
-  2.8Ghz 65W six-core - $289.99 
+  3.1Ghz 95W 6-core - $199.99
+  3.3Ghz 95W 6-core - $269.99 <==
+  3.0Ghz 95W 8-core - $349.99
+  2.8Ghz 65W 6-core - $289.99 
 
   H8SCM-F <== best yet (not on newegg)
   o Single AMD Opteron 4000 Series processor (C32) 8/6/4-Core ready
@@ -119,6 +119,22 @@ http://www.supermicro.com/aplus/
 
 Supermicro A+ mothernboards
 http://www.supermicro.com/Aplus/motherboard/
+
+AMD releases Opteron 6200 and 4200 CPUs
+Really nice list of AMD C32 processors.
+http://www.cpu-world.com/news_2011/2011111401_AMD_launches_Opteron_6200_and_4200_series_processors.html
+
+Bulldozer (microarchitecture)
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Bulldozer_%28microarchitecture%29
+
+Socket C32 (Opteron 4000 series CPUs)
+"Socket C32 is also be used in the ultra-low-power Adelaide platform 
+with the SR5650 chipset and HT1 interconnects instead of HT3.1.
+Socket C32 also supports the Bulldozer-based six- and eight-core
+"Valencia" Opterons introduced in November of 2011."
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Socket_C32
 
 PNY VCG84512R3SXPB NVIDIA Verto GeForce 8400 GS 512MB R3 
 PCI-e Video Card - 512MB, DDR2, VGA, DVI, HDMI, PCI-e
