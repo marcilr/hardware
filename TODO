@@ -27,8 +27,16 @@ Supermicro Opteron 4000 series is all Socket C32.
   2.8Ghz 65W six-core - $289.99 
 
   H8SCM-F <== best yet (not on newegg)
+  o Single AMD Opteron 4000 Series processor (C32) 8/6/4-Core ready
+  o AMD SR5650 / SP5100 Chipset
   o Up to 64GB DDR3 Registered ECC or 16GB DDR3 Unb. ECC/non-ECC
     1600/1333/1066 SDRAM in 4 DIMMs
+  o 2x Intel 82574L gigabit ethernet
+  o 6x SATA2 3.0 Gbps via AMD SP5100 controller
+  o 3x PCIe slots one in x16 are in x8, 1x 32-bit PCI slot.
+  o Matrox G200eW Graphics
+  o IPMI 2.0 + KVM with dedicated LAN
+  o 7x USB 2.0 ports (2x rear / 2x header - 4 ports / 1x Type-A)
   http://www.costcentral.com/proddetail/SUPERMICRO_H8SCM_F/MBDH8SCMF/11194180/ - $240.70
 
 Crucial memory adviser recommends (H8SCM-F)
