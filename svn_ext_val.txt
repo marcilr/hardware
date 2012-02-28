@@ -34,6 +34,12 @@
 # apple            Apple computer
 # batteries
 # cablecard        CableCARD, for cable tv access, info.
+# cotton-candy     Cotton Candy, a computer the size of a (big) thumbdrive, is available for
+#                  pre-order and will ship in March. The $199 machine, which runs Ubuntu or
+#                  Android 4, has a 1.2GHz ARM CPU, 1GB of RAM, and HD video acceleration.
+#                  [FXI via Ars Technica]
+#                  http://boingboing.net/2012/02/28/thumbdrive-computer-up-for-pre.html
+#                  http://store.cstick.com/ 
 # fans
 # fpga             Field Programmable Gate Array
 # hhkb-lite2       Happy Hacking Keyboard Lite 2
@@ -48,6 +54,7 @@
 ./apple                svn+ssh://home/data/svnroot/00HARDWARE/apple
 ./batteries            svn+ssh://home/data/svnroot/00HARDWARE/batteries
 ./cablecard            svn+ssh://home/data/svnroot/00HARDWARE/cablecard
+./cotton-candy         svn+ssh://home/data/svnroot/00HARDWARE/cotton-candy
 ./fans                 svn+ssh://home/data/svnroot/00HARDWARE/fans
 ./fpga                 svn+ssh://home/data/svnroot/00HARDWARE/fpga
 ./hhkb-lite2           svn+ssh://home/data/svnroot/00HARDWARE/hhkb-lite2
