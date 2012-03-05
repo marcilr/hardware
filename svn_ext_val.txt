@@ -40,6 +40,7 @@
 #                  [FXI via Ars Technica]
 #                  http://boingboing.net/2012/02/28/thumbdrive-computer-up-for-pre.html
 #                  http://store.cstick.com/ 
+# docs             Documentation.
 # fans
 # fpga             Field Programmable Gate Array
 # hhkb-lite2       Happy Hacking Keyboard Lite 2
@@ -55,6 +56,7 @@
 ./batteries            svn+ssh://home/data/svnroot/00HARDWARE/batteries
 ./cablecard            svn+ssh://home/data/svnroot/00HARDWARE/cablecard
 ./cotton-candy         svn+ssh://home/data/svnroot/00HARDWARE/cotton-candy
+./docs                 svn+ssh://home/data/svnroot/00HARDWARE/docs
 ./fans                 svn+ssh://home/data/svnroot/00HARDWARE/fans
 ./fpga                 svn+ssh://home/data/svnroot/00HARDWARE/fpga
 ./hhkb-lite2           svn+ssh://home/data/svnroot/00HARDWARE/hhkb-lite2
