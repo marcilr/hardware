@@ -61,7 +61,7 @@
 ./fans                 svn+ssh://home/data/svnroot/00HARDWARE/fans
 ./fpga                 svn+ssh://home/data/svnroot/00HARDWARE/fpga
 ./hhkb-lite2           svn+ssh://home/data/svnroot/00HARDWARE/hhkb-lite2
-./livecam              svn+ssh://home/data/svnroot/00HARDWARE/livecam
+./lifecam              svn+ssh://home/data/svnroot/00HARDWARE/lifecam
 ./power-strip          svn+ssh://home/data/svnroot/00HARDWARE/power-strip
 ./power-supply         svn+ssh://home/data/svnroot/00HARDWARE/power-supply
 ./rack                 svn+ssh://home/data/svnroot/00HARDWARE/rack
