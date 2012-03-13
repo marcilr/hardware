@@ -45,7 +45,7 @@
 # fpga             Field Programmable Gate Array
 # hhkb-lite2       Happy Hacking Keyboard Lite 2
 #                  http://www.pfusystems.com/hhkeyboard/hhkeyboard.html
-# livecam          Microsoft LiveCam 1080p camera.
+# lifecam         Microsoft LifeCam 1080p camera.
 # power-strip
 # power-supply
 # rack             Rack hardware
