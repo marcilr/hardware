@@ -32,7 +32,7 @@
 # List of subversion repositories to checkout under 00HARDWARE/
 #
 # all-in-one       Brother MFC-9840CDW all-in-one.
-# amiga            Commodore Amiga Mini PC build.
+# commodore        Commodore Amiga Mini PC build.
 # apple            Apple computer
 # batteries
 # cablecard        CableCARD, for cable tv access, info.
@@ -55,10 +55,10 @@
 #
 
 ./all-in-one           svn+ssh://home/data/svnroot/00HARDWARE/all-in-one
-./amiga                svn+ssh://home/data/svnroot/00HARDWARE/amiga
 ./apple                svn+ssh://home/data/svnroot/00HARDWARE/apple
 ./batteries            svn+ssh://home/data/svnroot/00HARDWARE/batteries
 ./cablecard            svn+ssh://home/data/svnroot/00HARDWARE/cablecard
+./commodore            svn+ssh://home/data/svnroot/00HARDWARE/commodore
 ./cotton-candy         svn+ssh://home/data/svnroot/00HARDWARE/cotton-candy
 ./docs                 svn+ssh://home/data/svnroot/00HARDWARE/docs
 ./fans                 svn+ssh://home/data/svnroot/00HARDWARE/fans
