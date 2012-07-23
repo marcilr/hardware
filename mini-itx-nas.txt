@@ -3,8 +3,8 @@ Created Sun Jul 22 23:22:37 AKDT 2012
 Copyright (C) 2012 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-The idea would be to build an inexpensive mini-itx nas with 4 drive bays
-for remote backup.
+The idea would be to build an inexpensive mini-itx nas chassis
+with 4 drive bays for remote backup.
 
 
 
