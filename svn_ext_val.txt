@@ -51,9 +51,9 @@
 # docs             Documentation.
 # fans
 # fpga             Field Programmable Gate Array
-# hhkb-lite2       Happy Hacking Keyboard Lite 2
+# hhk              Happy Hacking Keyboard Lite 2
 #                  http://www.pfusystems.com/hhkeyboard/hhkeyboard.html
-# lifecam         Microsoft LifeCam 1080p camera.
+# lifecam          Microsoft LifeCam 1080p camera.
 # power-strip
 # power-supply
 # rack             Rack hardware
@@ -69,7 +69,7 @@
 ./docs                 svn+ssh://home/data/svnroot/00HARDWARE/docs
 ./fans                 svn+ssh://home/data/svnroot/00HARDWARE/fans
 ./fpga                 svn+ssh://home/data/svnroot/00HARDWARE/fpga
-./hhkb-lite2           svn+ssh://home/data/svnroot/00HARDWARE/hhkb-lite2
+./hhk                  svn+ssh://home/data/svnroot/00HARDWARE/hhk
 ./lifecam              svn+ssh://home/data/svnroot/00HARDWARE/lifecam
 ./power-strip          svn+ssh://home/data/svnroot/00HARDWARE/power-strip
 ./power-supply         svn+ssh://home/data/svnroot/00HARDWARE/power-supply
