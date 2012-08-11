@@ -27,7 +27,6 @@
 ./00MEMORY        svn+ssh://home/data/svnroot/00HARDWARE/00MEMORY/00MEMORY
 ./00MOBOS         svn+ssh://home/data/svnroot/00HARDWARE/00MOBOS/00MOBOS
 ./00PCB           svn+ssh://home/data/svnroot/00HARDWARE/00PCB/00PCB
-./00PLUMBING      svn+ssh://home/data/svnroot/00HARDWARE/00PLUMBING/00PLUMBING
 ./00NET           svn+ssh://home/data/svnroot/00HARDWARE/00NET/00NET
 ./00SERVERS       svn+ssh://home/data/svnroot/00HARDWARE/00SERVERS/00SERVERS
 ./00UPS          svn+ssh://home/data/svnroot/00HARDWARE/00UPS/00UPS
