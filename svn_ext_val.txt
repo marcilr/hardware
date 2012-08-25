@@ -61,7 +61,6 @@
 # rack             Rack hardware
 # ups              Uninterruptible Power Supplies
 #
-
 ./all-in-one           svn+ssh://home/data/svnroot/00HARDWARE/all-in-one
 ./apple                svn+ssh://home/data/svnroot/00HARDWARE/apple
 ./batteries            svn+ssh://home/data/svnroot/00HARDWARE/batteries
