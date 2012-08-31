@@ -9,6 +9,7 @@
 # List of repo hierarchical directories to checkout under 00HARDWARE/
 #
 # 00DL580-G2      HP Proliant DL580 G2 4U rack mount server in garage.
+# 00DSL           ACS SR350N DSL Gateway (modem) and configuration.
 # 00HTPC          Home Theatre PC.
 #                 http://en.wikipedia.org/wiki/Home_theater_PC
 # 00PCB           Printer circuit boards.
@@ -22,6 +23,7 @@
 ./00CONTROLLERS   svn+ssh://home/data/svnroot/00HARDWARE/00CONTROLLERS/00CONTROLLERS
 ./00CPU           svn+ssh://home/data/svnroot/00HARDWARE/00CPU/00CPU
 ./00DL580-G2      svn+ssh://home/data/svnroot/00HARDWARE/00DL580-G2/00DL580-G2
+./00DSL           svn+ssh://home/data/svnroot/00HARDWARE/00DSL/00DSL
 ./00DRIVES        svn+ssh://home/data/svnroot/00HARDWARE/00DRIVES/00DRIVES
 ./00FIREWIRE      svn+ssh://home/data/svnroot/00HARDWARE/00FIREWIRE/00FIREWIRE 
 ./00GRAPHICS      svn+ssh://home/data/svnroot/00HARDWARE/00GRAPHICS/00GRAPHICS
