@@ -8,7 +8,7 @@
 #
 # List of repo hierarchical directories to checkout under 00HARDWARE/
 #
-# 00DL580-G2      HP Proliant DL580 G2 4U rackmount server in garage.
+# 00DL580-G2      HP Proliant DL580 G2 4U rack mount server in garage.
 # 00HTPC          Home Theatre PC.
 #                 http://en.wikipedia.org/wiki/Home_theater_PC
 # 00PCB           Printer circuit boards.
