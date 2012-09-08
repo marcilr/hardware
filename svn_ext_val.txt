@@ -15,6 +15,7 @@
 # 00PCB           Printer circuit boards.
 # 00PLC           Programmable logic controller
 #                 http://en.wikipedia.org/wiki/Programmable_logic_controller
+# 00WATCHES       Watches I have owned.
 #
 ./00APPLIANCES    svn+ssh://home/data/svnroot/00HARDWARE/00APPLIANCES/00APPLIANCES
 ./00BLUETOOTH     svn+ssh://home/data/svnroot/00HARDWARE/00BLUETOOTH/00BLUETOOTH
@@ -37,6 +38,7 @@
 ./00PLC           svn+ssh://home/data/svnroot/00HARDWARE/00PLC/00PLC
 ./00SERVERS       svn+ssh://home/data/svnroot/00HARDWARE/00SERVERS/00SERVERS
 ./00UPS           svn+ssh://home/data/svnroot/00HARDWARE/00UPS/00UPS
+./00WATCHES       svn+ssh://home/data/svnroot/00HARDWARE/00WATCHES/00WATCHES
 ./00WIRELESS      svn+ssh://home/data/svnroot/00HARDWARE/00WIRELESS/00WIRELESS
 
 
