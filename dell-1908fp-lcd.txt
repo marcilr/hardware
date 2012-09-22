@@ -93,3 +93,8 @@ Links
 Dell 1908FP Monitor
 http://www.dell.com/support/troubleshooting/us/en/19/Index/dell-1908fp
 
+About Your Monitor
+Dell 1908FP Flat Panel Monitor User's Guide
+Shows connectors.
+http://support.dell.com/support/edocs/monitors/1908fp/en/ug/about.htm
+
