@@ -86,3 +86,10 @@ Product Description:
 Put on classic.
 
 from: 20091011-dell-1908fp-lcd.txt
+
+
+Links
+=====
+Dell 1908FP Monitor
+http://www.dell.com/support/troubleshooting/us/en/19/Index/dell-1908fp
+
