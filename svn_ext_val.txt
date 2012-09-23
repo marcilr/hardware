@@ -10,6 +10,11 @@
 #
 # 00DL580-G2         HP Proliant DL580 G2 4U rack mount server in garage.
 # 00DSL              ACS SR350N DSL Gateway (modem) and configuration.
+# 00HDMI             HDMI (High-Definition Multimedia Interface) is a compact audio/video
+#                    interface for transferring uncompressed digital audio/video data from an
+#                    HDMI-compliant device ("the source") to a compatible digital audio device,
+#                    computer monitor, video projector, and digital television.
+#                    http://en.wikipedia.org/wiki/HDMI
 # 00HTPC             Home Theatre PC.
 #                    http://en.wikipedia.org/wiki/Home_theater_PC
 # 00PCB              Printer circuit boards.
@@ -29,6 +34,7 @@
 ./00DRIVES           svn+ssh://home/data/svnroot/00HARDWARE/00DRIVES/00DRIVES
 ./00FIREWIRE         svn+ssh://home/data/svnroot/00HARDWARE/00FIREWIRE/00FIREWIRE 
 ./00GRAPHICS         svn+ssh://home/data/svnroot/00HARDWARE/00GRAPHICS/00GRAPHICS
+./00HDMI             svn+ssh://home/data/svnroot/00HARDWARE/00HDMI/00HDMI
 ./00HTPC             svn+ssh://home/data/svnroot/00HARDWARE/00HTPC/00HTPC
 ./00KVM              svn+ssh://home/data/svnroot/00HARDWARE/00KVM/00KVM
 ./00LOCKS            svn+ssh://home/data/svnroot/00HARDWARE/00LOCKS/00LOCKS 
