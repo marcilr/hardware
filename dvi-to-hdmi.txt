@@ -8,6 +8,9 @@ RadioShack Male DVI to Female HDMI Adapter
 make:      RadioShack
 model:     HDMI-02A
 catalog #: 15-375
+features:  o Ideal for connecting a DVI component to an HDMI HDTV or monitor.
+           o Gold plating reduces interference and improves signal transfer.
+           o RoHS compliant
 made in:   China
 price:     $29.99
 
