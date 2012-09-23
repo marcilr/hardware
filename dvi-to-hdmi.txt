@@ -1,0 +1,18 @@
+dvi-to-hdmi.txt
+Created Sun Sep 23 14:20:16 AKDT 2012
+Copyright (C) 2012 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+RadioShack Male DVI to Female HDMI Adapter
+
+make:      RadioShack
+model:     HDMI-02A
+catalog #: 15-375
+made in:   China
+price:     $29.99
+
+
+Purchased a RadioShack Male DVI to Female HDMI Adapter to connect a Dell 1908FP LCD to the TiVo
+in the bedroom.  Expensive at $29.99.  But it definately worked well.
+ 
+
