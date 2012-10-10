@@ -22,6 +22,7 @@
 #                    http://en.wikipedia.org/wiki/Programmable_logic_controller
 # 00WATCHES          Watches I have owned.
 # dell-1908fp-lcd/   Dell 1908FP LCD display.
+# sump-pump/         Sump pumps.
 #
 ./00APPLIANCES       svn+ssh://home/data/svnroot/00HARDWARE/00APPLIANCES/00APPLIANCES
 ./00BLUETOOTH        svn+ssh://home/data/svnroot/00HARDWARE/00BLUETOOTH/00BLUETOOTH
@@ -48,6 +49,8 @@
 ./00WATCHES          svn+ssh://home/data/svnroot/00HARDWARE/00WATCHES/00WATCHES
 ./00WIRELESS         svn+ssh://home/data/svnroot/00HARDWARE/00WIRELESS/00WIRELESS
 ./dell-1908fp-lcd    svn+ssh://home/data/svnroot/00HARDWARE/dell-1908fp-lcd/dell-1908fp-lcd
+./sump-pump          svn+ssh://home/data/svnroot/00HARDWARE/sump-pump/sump-pump
+
 
 #
 # List of subversion repositories to checkout under 00HARDWARE/
