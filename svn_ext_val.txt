@@ -21,6 +21,8 @@
 # 00PLC              Programmable logic controller
 #                    http://en.wikipedia.org/wiki/Programmable_logic_controller
 # 00WATCHES          Watches I have owned.
+# 00WYSE             Wyse systems
+#                    http://www.wyse.com/
 # dell-1908fp-lcd/   Dell 1908FP LCD display.
 # sump-pump/         Sump pumps.
 #
@@ -48,6 +50,7 @@
 ./00UPS              svn+ssh://home/data/svnroot/00HARDWARE/00UPS/00UPS
 ./00WATCHES          svn+ssh://home/data/svnroot/00HARDWARE/00WATCHES/00WATCHES
 ./00WIRELESS         svn+ssh://home/data/svnroot/00HARDWARE/00WIRELESS/00WIRELESS
+./00WYSE             svn+ssh://home/data/svnroot/00HARDWARE/00WYSE/00WYSE
 ./dell-1908fp-lcd    svn+ssh://home/data/svnroot/00HARDWARE/dell-1908fp-lcd/dell-1908fp-lcd
 ./sump-pump          svn+ssh://home/data/svnroot/00HARDWARE/sump-pump/sump-pump
 
