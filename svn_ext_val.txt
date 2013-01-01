@@ -24,6 +24,7 @@
 # 00WYSE             Wyse systems
 #                    http://www.wyse.com/
 # dell-1908fp-lcd/   Dell 1908FP LCD display.
+# fanless            Fanless machines.
 # sump-pump/         Sump pumps.
 #
 ./00APPLIANCES       svn+ssh://home/data/svnroot/00HARDWARE/00APPLIANCES/00APPLIANCES
@@ -52,6 +53,7 @@
 ./00WIRELESS         svn+ssh://home/data/svnroot/00HARDWARE/00WIRELESS/00WIRELESS
 ./00WYSE             svn+ssh://home/data/svnroot/00HARDWARE/00WYSE/00WYSE
 ./dell-1908fp-lcd    svn+ssh://home/data/svnroot/00HARDWARE/dell-1908fp-lcd/dell-1908fp-lcd
+./fanless            svn+ssh://home/data/svnroot/00HARDWARE/fanless/fanless
 ./sump-pump          svn+ssh://home/data/svnroot/00HARDWARE/sump-pump/sump-pump
 
 
