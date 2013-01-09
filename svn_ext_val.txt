@@ -15,8 +15,6 @@
 #                    HDMI-compliant device ("the source") to a compatible digital audio device,
 #                    computer monitor, video projector, and digital television.
 #                    http://en.wikipedia.org/wiki/HDMI
-# 00PLC              Programmable logic controller
-#                    http://en.wikipedia.org/wiki/Programmable_logic_controller
 # 00WATCHES          Watches I have owned.
 # 00WYSE             Wyse systems
 #                    http://www.wyse.com/
@@ -41,7 +39,6 @@
 ./00MEMORY           svn+ssh://home/data/svnroot/00HARDWARE/00MEMORY/00MEMORY
 ./00MOBOS            svn+ssh://home/data/svnroot/00HARDWARE/00MOBOS/00MOBOS
 ./00NET              svn+ssh://home/data/svnroot/00HARDWARE/00NET/00NET
-./00PLC              svn+ssh://home/data/svnroot/00HARDWARE/00PLC/00PLC
 ./00SERVERS          svn+ssh://home/data/svnroot/00HARDWARE/00SERVERS/00SERVERS
 ./00UPS              svn+ssh://home/data/svnroot/00HARDWARE/00UPS/00UPS
 ./00WATCHES          svn+ssh://home/data/svnroot/00HARDWARE/00WATCHES/00WATCHES
