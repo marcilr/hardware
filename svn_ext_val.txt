@@ -65,7 +65,6 @@
 #                    http://store.cstick.com/ 
 # docs               Documentation.
 # fans
-# fpga               Field Programmable Gate Array
 # hhk                Happy Hacking Keyboard Lite 2
 #                    http://www.pfusystems.com/hhkeyboard/hhkeyboard.html
 # lifecam            Microsoft LifeCam 1080p camera.
@@ -82,7 +81,6 @@
 ./cotton-candy       svn+ssh://home/data/svnroot/00HARDWARE/cotton-candy
 ./docs               svn+ssh://home/data/svnroot/00HARDWARE/docs
 ./fans               svn+ssh://home/data/svnroot/00HARDWARE/fans
-./fpga               svn+ssh://home/data/svnroot/00HARDWARE/fpga
 ./hhk                svn+ssh://home/data/svnroot/00HARDWARE/hhk
 ./lifecam            svn+ssh://home/data/svnroot/00HARDWARE/lifecam
 ./power-strip        svn+ssh://home/data/svnroot/00HARDWARE/power-strip
