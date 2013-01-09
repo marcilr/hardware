@@ -17,7 +17,6 @@
 #                    http://en.wikipedia.org/wiki/HDMI
 # 00HTPC             Home Theatre PC.
 #                    http://en.wikipedia.org/wiki/Home_theater_PC
-# 00PCB              Printer circuit boards.
 # 00PLC              Programmable logic controller
 #                    http://en.wikipedia.org/wiki/Programmable_logic_controller
 # 00WATCHES          Watches I have owned.
