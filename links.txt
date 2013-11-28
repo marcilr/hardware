@@ -12,6 +12,11 @@ Are Computer Keyboards Dishwasher Safe?
 by Nell Greenfieldboyce
 http://www.npr.org/templates/story/story.php?storyId=11029793
 
+$39 Arduino Compatible Boardset Runs Linux On New x86 SoC
+Posted by timothy on Thursday November 28, 2013 @01:52PM 
+from the plenty-of-room-at-the-bottom dept.
+http://hardware.slashdot.org/story/13/11/28/159228/39-arduino-compatible-boardset-runs-linux-on-new-x86-soc
+
 Seal Shield
 Makes waterproof keyboards - mentioned above.
 http://www.sealshield.com/
