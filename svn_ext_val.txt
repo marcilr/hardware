@@ -22,6 +22,7 @@
 # dell-1908fp-lcd/   Dell 1908FP LCD display.
 # fanless            Fanless machines
 # graphics/          Graphics
+# power/             Power
 # sump-pump/         Sump pumps
 #
 ./00APPLIANCES       svn+ssh://home/data/svnroot/hardware/00APPLIANCES/00APPLIANCES
@@ -47,6 +48,7 @@
 ./dell-1908fp-lcd    svn+ssh://home/data/svnroot/hardware/dell-1908fp-lcd/dell-1908fp-lcd
 ./fanless            svn+ssh://home/data/svnroot/hardware/fanless/fanless
 ./graphics           svn+ssh://home/data/svnroot/hardware/graphics/graphics
+./power              svn+ssh://home/data/svnroot/hardware/power/power
 ./sump-pump          svn+ssh://home/data/svnroot/hardware/sump-pump/sump-pump
 
 
