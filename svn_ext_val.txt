@@ -55,7 +55,6 @@
 #
 # List of subversion repositories to checkout under hardware/
 #
-# all-in-one         Brother MFC-9840CDW all-in-one.
 # commodore          Commodore Amiga Mini PC build.
 # apple              Apple computer
 # batteries
@@ -72,7 +71,6 @@
 #                    http://www.pfusystems.com/hhkeyboard/hhkeyboard.html
 # rack               Rack hardware
 #
-./all-in-one         svn+ssh://home/data/svnroot/hardware/all-in-one
 ./apple              svn+ssh://home/data/svnroot/hardware/apple
 ./batteries          svn+ssh://home/data/svnroot/hardware/batteries
 ./cablecard          svn+ssh://home/data/svnroot/hardware/cablecard
