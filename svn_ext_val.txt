@@ -69,7 +69,6 @@
 # lifecam            Microsoft LifeCam 1080p camera.
 # power-supply
 # rack               Rack hardware
-# ups                Uninterruptible Power Supplies
 #
 ./all-in-one         svn+ssh://home/data/svnroot/hardware/all-in-one
 ./apple              svn+ssh://home/data/svnroot/hardware/apple
@@ -83,4 +82,3 @@
 ./lifecam            svn+ssh://home/data/svnroot/hardware/lifecam
 ./power-supply       svn+ssh://home/data/svnroot/hardware/power-supply
 ./rack               svn+ssh://home/data/svnroot/hardware/rack
-./ups                svn+ssh://home/data/svnroot/hardware/ups
