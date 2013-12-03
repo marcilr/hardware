@@ -19,8 +19,9 @@
 # 00WYSE             Wyse systems
 #                    http://www.wyse.com/
 # dell-1908fp-lcd/   Dell 1908FP LCD display.
-# fanless            Fanless machines.
-# sump-pump/         Sump pumps.
+# fanless            Fanless machines
+# graphics/          Graphics
+# sump-pump/         Sump pumps
 #
 ./00APPLIANCES       svn+ssh://home/data/svnroot/hardware/00APPLIANCES/00APPLIANCES
 ./00BLUETOOTH        svn+ssh://home/data/svnroot/hardware/00BLUETOOTH/00BLUETOOTH
@@ -31,7 +32,6 @@
 ./00DL580-G2         svn+ssh://home/data/svnroot/hardware/00DL580-G2/00DL580-G2
 ./00DSL              svn+ssh://home/data/svnroot/hardware/00DSL/00DSL
 ./00FIREWIRE         svn+ssh://home/data/svnroot/hardware/00FIREWIRE/00FIREWIRE 
-./00GRAPHICS         svn+ssh://home/data/svnroot/hardware/00GRAPHICS/00GRAPHICS
 ./00HDMI             svn+ssh://home/data/svnroot/hardware/00HDMI/00HDMI
 ./00KVM              svn+ssh://home/data/svnroot/hardware/00KVM/00KVM
 ./00LOCKS            svn+ssh://home/data/svnroot/hardware/00LOCKS/00LOCKS 
@@ -45,6 +45,7 @@
 ./00WYSE             svn+ssh://home/data/svnroot/hardware/00WYSE/00WYSE
 ./dell-1908fp-lcd    svn+ssh://home/data/svnroot/hardware/dell-1908fp-lcd/dell-1908fp-lcd
 ./fanless            svn+ssh://home/data/svnroot/hardware/fanless/fanless
+./graphics           svn+ssh://home/data/svnroot/hardware/graphics/graphics
 ./sump-pump          svn+ssh://home/data/svnroot/hardware/sump-pump/sump-pump
 
 
