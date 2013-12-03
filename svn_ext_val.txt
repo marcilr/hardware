@@ -18,7 +18,7 @@
 # fanless            Fanless machines
 # graphics/          Graphics
 # media/             Media
-# power/             Power
+# power/             Power supplies, ups, batteries, strips, etc.
 # sump-pump/         Sump pumps
 #
 ./00APPLIANCES       svn+ssh://home/data/svnroot/hardware/00APPLIANCES/00APPLIANCES
