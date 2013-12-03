@@ -60,7 +60,6 @@
 # commodore          Commodore Amiga Mini PC build.
 # apple              Apple computer
 # batteries
-# cablecard          CableCARD, for cable tv access, info.
 # cotton-candy       Cotton Candy, a computer the size of a (big) thumbdrive, is available for
 #                    pre-order and will ship in March. The $199 machine, which runs Ubuntu or
 #                    Android 4, has a 1.2GHz ARM CPU, 1GB of RAM, and HD video acceleration.
@@ -75,7 +74,6 @@
 #
 ./apple              svn+ssh://home/data/svnroot/hardware/apple
 ./batteries          svn+ssh://home/data/svnroot/hardware/batteries
-./cablecard          svn+ssh://home/data/svnroot/hardware/cablecard
 #./commodore         svn+ssh://home/data/svnroot/hardware/commodore
 ./cotton-candy       svn+ssh://home/data/svnroot/hardware/cotton-candy
 ./docs               svn+ssh://home/data/svnroot/hardware/docs
