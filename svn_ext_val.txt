@@ -22,6 +22,7 @@
 # media/             Media
 # net/               Network
 # power/             Power supplies, ups, batteries, strips, etc.
+# printers/          Printers
 # sump-pump/         Sump pumps
 #
 ./appliances         svn+ssh://home/data/svnroot/hardware/appliances/appliances
@@ -47,6 +48,7 @@
 ./graphics           svn+ssh://home/data/svnroot/hardware/graphics/graphics
 ./media              svn+ssh://home/data/svnroot/hardware/media/media
 ./power              svn+ssh://home/data/svnroot/hardware/power/power
+./printers           svn+ssh://home/data/svnroot/hardware/printers/printers
 ./sump-pump          svn+ssh://home/data/svnroot/hardware/sump-pump/sump-pump
 
 
