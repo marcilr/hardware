@@ -67,7 +67,6 @@
 # hhk                Happy Hacking Keyboard Lite 2
 #                    http://www.pfusystems.com/hhkeyboard/hhkeyboard.html
 # lifecam            Microsoft LifeCam 1080p camera.
-# power-strip
 # power-supply
 # rack               Rack hardware
 # ups                Uninterruptible Power Supplies
@@ -82,7 +81,6 @@
 ./fans               svn+ssh://home/data/svnroot/hardware/fans
 ./hhk                svn+ssh://home/data/svnroot/hardware/hhk
 ./lifecam            svn+ssh://home/data/svnroot/hardware/lifecam
-./power-strip        svn+ssh://home/data/svnroot/hardware/power-strip
 ./power-supply       svn+ssh://home/data/svnroot/hardware/power-supply
 ./rack               svn+ssh://home/data/svnroot/hardware/rack
 ./ups                svn+ssh://home/data/svnroot/hardware/ups
