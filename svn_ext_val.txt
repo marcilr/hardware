@@ -26,7 +26,6 @@
 # sump-pump/         Sump pumps
 #
 ./appliances         svn+ssh://home/data/svnroot/hardware/appliances/appliances
-./00BLUETOOTH        svn+ssh://home/data/svnroot/hardware/00BLUETOOTH/00BLUETOOTH
 ./cables             svn+ssh://home/data/svnroot/hardware/cables/cables
 ./00CHASSIS          svn+ssh://home/data/svnroot/hardware/00CHASSIS/00CHASSIS
 ./00CONTROLLERS      svn+ssh://home/data/svnroot/hardware/00CONTROLLERS/00CONTROLLERS
