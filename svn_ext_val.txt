@@ -65,7 +65,6 @@
 # fans
 # hhk                Happy Hacking Keyboard Lite 2
 #                    http://www.pfusystems.com/hhkeyboard/hhkeyboard.html
-# lifecam            Microsoft LifeCam 1080p camera.
 # rack               Rack hardware
 #
 ./all-in-one         svn+ssh://home/data/svnroot/hardware/all-in-one
@@ -77,5 +76,4 @@
 ./docs               svn+ssh://home/data/svnroot/hardware/docs
 ./fans               svn+ssh://home/data/svnroot/hardware/fans
 ./hhk                svn+ssh://home/data/svnroot/hardware/hhk
-./lifecam            svn+ssh://home/data/svnroot/hardware/lifecam
 ./rack               svn+ssh://home/data/svnroot/hardware/rack
