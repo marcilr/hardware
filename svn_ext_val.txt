@@ -18,6 +18,7 @@
 # cables/            Cables
 # chassis/           Chassis
 # dell-1908fp-lcd/   Dell 1908FP LCD display.
+# displays/          Displays
 # fanless            Fanless machines
 # graphics/          Graphics
 # media/             Media
@@ -44,6 +45,7 @@
 ./00WYSE             svn+ssh://home/data/svnroot/hardware/00WYSE/00WYSE
 ./chassis            svn+ssh://home/data/svnroot/hardware/chassis/chassis
 ./dell-1908fp-lcd    svn+ssh://home/data/svnroot/hardware/dell-1908fp-lcd/dell-1908fp-lcd
+./displays           svn+ssh://home/data/svnroot/hardware/displays/displays
 ./fanless            svn+ssh://home/data/svnroot/hardware/fanless/fanless
 ./graphics           svn+ssh://home/data/svnroot/hardware/graphics/graphics
 ./media              svn+ssh://home/data/svnroot/hardware/media/media
