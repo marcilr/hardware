@@ -18,6 +18,7 @@
 # cables/            Cables
 # chassis/           Chassis
 # controllers/       Controllers
+# cpu/               AMD, Arm, and Intel cpus 
 # displays/          Displays
 # fanless            Fanless machines
 # graphics/          Graphics
@@ -28,7 +29,7 @@
 #
 ./appliances         svn+ssh://home/data/svnroot/hardware/appliances/appliances
 ./cables             svn+ssh://home/data/svnroot/hardware/cables/cables
-./00CPU              svn+ssh://home/data/svnroot/hardware/00CPU/00CPU
+./cpu                svn+ssh://home/data/svnroot/hardware/cpu/cpu
 ./00DL580-G2         svn+ssh://home/data/svnroot/hardware/00DL580-G2/00DL580-G2
 ./00DSL              svn+ssh://home/data/svnroot/hardware/00DSL/00DSL
 ./00KVM              svn+ssh://home/data/svnroot/hardware/00KVM/00KVM
