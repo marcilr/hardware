@@ -22,7 +22,6 @@
 # graphics/          Graphics
 # media/             Media
 # net/               Network
-# power/             Power supplies, ups, batteries, strips, etc.
 # printers/          Printers
 # sump-pump/         Sump pumps
 #
