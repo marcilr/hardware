@@ -17,6 +17,7 @@
 # appliances/        Appliances
 # cables/            Cables
 # chassis/           Chassis
+# controllers/       Controllers
 # displays/          Displays
 # fanless            Fanless machines
 # graphics/          Graphics
@@ -27,7 +28,6 @@
 #
 ./appliances         svn+ssh://home/data/svnroot/hardware/appliances/appliances
 ./cables             svn+ssh://home/data/svnroot/hardware/cables/cables
-./00CONTROLLERS      svn+ssh://home/data/svnroot/hardware/00CONTROLLERS/00CONTROLLERS
 ./00CPU              svn+ssh://home/data/svnroot/hardware/00CPU/00CPU
 ./00DL580-G2         svn+ssh://home/data/svnroot/hardware/00DL580-G2/00DL580-G2
 ./00DSL              svn+ssh://home/data/svnroot/hardware/00DSL/00DSL
@@ -41,6 +41,7 @@
 ./00WIRELESS         svn+ssh://home/data/svnroot/hardware/00WIRELESS/00WIRELESS
 ./00WYSE             svn+ssh://home/data/svnroot/hardware/00WYSE/00WYSE
 ./chassis            svn+ssh://home/data/svnroot/hardware/chassis/chassis
+./controllers        svn+ssh://home/data/svnroot/hardware/controllers/controllers
 ./displays           svn+ssh://home/data/svnroot/hardware/displays/displays
 ./fanless            svn+ssh://home/data/svnroot/hardware/fanless/fanless
 ./graphics           svn+ssh://home/data/svnroot/hardware/graphics/graphics
