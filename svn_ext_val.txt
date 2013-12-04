@@ -8,7 +8,6 @@
 #
 # List of repo hierarchical directories to checkout under hardware/
 #
-# 00DL580-G2         HP Proliant DL580 G2 4U rack mount server in garage.
 # 00DSL              ACS SR350N DSL Gateway (modem) and configuration.
 # 00WATCHES          Watches I have owned.
 # 00WYSE             Wyse systems
@@ -31,7 +30,6 @@
 ./appliances         svn+ssh://home/data/svnroot/hardware/appliances/appliances
 ./cables             svn+ssh://home/data/svnroot/hardware/cables/cables
 ./cpu                svn+ssh://home/data/svnroot/hardware/cpu/cpu
-./00DL580-G2         svn+ssh://home/data/svnroot/hardware/00DL580-G2/00DL580-G2
 ./00DSL              svn+ssh://home/data/svnroot/hardware/00DSL/00DSL
 ./00KVM              svn+ssh://home/data/svnroot/hardware/00KVM/00KVM
 ./00LOCKS            svn+ssh://home/data/svnroot/hardware/00LOCKS/00LOCKS 
