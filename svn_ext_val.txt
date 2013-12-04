@@ -20,6 +20,7 @@
 # displays/          Displays
 # fanless            Fanless machines
 # graphics/          Graphics
+# kvm/               Keyboard Video Mouse (KVM)
 # media/             Media
 # net/               Network
 # printers/          Printers
@@ -29,7 +30,7 @@
 ./appliances         svn+ssh://home/data/svnroot/hardware/appliances/appliances
 ./cables             svn+ssh://home/data/svnroot/hardware/cables/cables
 ./cpu                svn+ssh://home/data/svnroot/hardware/cpu/cpu
-./00KVM              svn+ssh://home/data/svnroot/hardware/00KVM/00KVM
+./kvm                svn+ssh://home/data/svnroot/hardware/kvm/kvm
 ./00LOCKS            svn+ssh://home/data/svnroot/hardware/00LOCKS/00LOCKS 
 ./00MEMORY           svn+ssh://home/data/svnroot/hardware/00MEMORY/00MEMORY
 ./00MOBOS            svn+ssh://home/data/svnroot/hardware/00MOBOS/00MOBOS
