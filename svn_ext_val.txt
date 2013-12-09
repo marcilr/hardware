@@ -41,7 +41,7 @@
 ./net                svn+ssh://home/data/svnroot/hardware/net/net
 ./power              svn+ssh://home/data/svnroot/hardware/power/power
 ./printers           svn+ssh://home/data/svnroot/hardware/printers/printers
-./servers            svn+ssh://home/data/svnroot/hardware/server/servers
+./servers            svn+ssh://home/data/svnroot/hardware/servers/servers
 ./sump-pump          svn+ssh://home/data/svnroot/hardware/sump-pump/sump-pump
 ./systems            svn+ssh://home/data/svnroot/hardware/systems/systems
 ./time               svn+ssh://home/data/svnroot/hardware/time/time
