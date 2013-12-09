@@ -8,8 +8,6 @@
 #
 # List of repo hierarchical directories to checkout under hardware/
 #
-# 00WATCHES          Watches I have owned.
-#
 # appliances/        Appliances
 # cables/            Cables
 # chassis/           Chassis
@@ -22,6 +20,7 @@
 # media/             Media
 # net/               Network
 # printers/          Printers
+# servers/           Servers
 # sump-pump/         Sump pumps
 # systems            Systems
 # time/              Time
@@ -33,16 +32,16 @@
 ./00LOCKS            svn+ssh://home/data/svnroot/hardware/00LOCKS/00LOCKS 
 ./00MEMORY           svn+ssh://home/data/svnroot/hardware/00MEMORY/00MEMORY
 ./00MOBOS            svn+ssh://home/data/svnroot/hardware/00MOBOS/00MOBOS
-./net                svn+ssh://home/data/svnroot/hardware/net/net
-./00SERVERS          svn+ssh://home/data/svnroot/hardware/00SERVERS/00SERVERS
 ./chassis            svn+ssh://home/data/svnroot/hardware/chassis/chassis
 ./controllers        svn+ssh://home/data/svnroot/hardware/controllers/controllers
 ./displays           svn+ssh://home/data/svnroot/hardware/displays/displays
 ./fanless            svn+ssh://home/data/svnroot/hardware/fanless/fanless
 ./graphics           svn+ssh://home/data/svnroot/hardware/graphics/graphics
 ./media              svn+ssh://home/data/svnroot/hardware/media/media
+./net                svn+ssh://home/data/svnroot/hardware/net/net
 ./power              svn+ssh://home/data/svnroot/hardware/power/power
 ./printers           svn+ssh://home/data/svnroot/hardware/printers/printers
+./servers            svn+ssh://home/data/svnroot/hardware/server/servers
 ./sump-pump          svn+ssh://home/data/svnroot/hardware/sump-pump/sump-pump
 ./systems            svn+ssh://home/data/svnroot/hardware/systems/systems
 ./time               svn+ssh://home/data/svnroot/hardware/time/time
