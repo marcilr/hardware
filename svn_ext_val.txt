@@ -35,7 +35,6 @@
 ./00MOBOS            svn+ssh://home/data/svnroot/hardware/00MOBOS/00MOBOS
 ./net                svn+ssh://home/data/svnroot/hardware/net/net
 ./00SERVERS          svn+ssh://home/data/svnroot/hardware/00SERVERS/00SERVERS
-./00WATCHES          svn+ssh://home/data/svnroot/hardware/00WATCHES/00WATCHES
 ./chassis            svn+ssh://home/data/svnroot/hardware/chassis/chassis
 ./controllers        svn+ssh://home/data/svnroot/hardware/controllers/controllers
 ./displays           svn+ssh://home/data/svnroot/hardware/displays/displays
