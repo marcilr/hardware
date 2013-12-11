@@ -18,6 +18,7 @@
 # graphics/          Graphics
 # kvm/               Keyboard Video Mouse (KVM)
 # media/             Media
+# mobos/             Motherboards
 # net/               Network
 # printers/          Printers
 # servers/           Servers
@@ -31,13 +32,13 @@
 ./kvm                svn+ssh://home/data/svnroot/hardware/kvm/kvm
 ./00LOCKS            svn+ssh://home/data/svnroot/hardware/00LOCKS/00LOCKS 
 ./00MEMORY           svn+ssh://home/data/svnroot/hardware/00MEMORY/00MEMORY
-./00MOBOS            svn+ssh://home/data/svnroot/hardware/00MOBOS/00MOBOS
 ./chassis            svn+ssh://home/data/svnroot/hardware/chassis/chassis
 ./controllers        svn+ssh://home/data/svnroot/hardware/controllers/controllers
 ./displays           svn+ssh://home/data/svnroot/hardware/displays/displays
 ./fanless            svn+ssh://home/data/svnroot/hardware/fanless/fanless
 ./graphics           svn+ssh://home/data/svnroot/hardware/graphics/graphics
 ./media              svn+ssh://home/data/svnroot/hardware/media/media
+./mobos              svn+ssh://home/data/svnroot/hardware/mobos/mobos
 ./net                svn+ssh://home/data/svnroot/hardware/net/net
 ./power              svn+ssh://home/data/svnroot/hardware/power/power
 ./printers           svn+ssh://home/data/svnroot/hardware/printers/printers
