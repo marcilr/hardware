@@ -32,7 +32,6 @@
 ./cables             svn+ssh://home/data/svnroot/hardware/cables/cables
 ./cpu                svn+ssh://home/data/svnroot/hardware/cpu/cpu
 ./kvm                svn+ssh://home/data/svnroot/hardware/kvm/kvm
-./00LOCKS            svn+ssh://home/data/svnroot/hardware/00LOCKS/00LOCKS 
 ./chassis            svn+ssh://home/data/svnroot/hardware/chassis/chassis
 ./controllers        svn+ssh://home/data/svnroot/hardware/controllers/controllers
 ./displays           svn+ssh://home/data/svnroot/hardware/displays/displays
