@@ -54,7 +54,6 @@
 # List of subversion repositories to checkout under hardware/
 #
 # commodore          Commodore Amiga Mini PC build.
-# apple              Apple computer
 # batteries
 # cotton-candy       Cotton Candy, a computer the size of a (big) thumbdrive, is available for
 #                    pre-order and will ship in March. The $199 machine, which runs Ubuntu or
@@ -68,7 +67,6 @@
 #                    http://www.pfusystems.com/hhkeyboard/hhkeyboard.html
 # rack               Rack hardware
 #
-./apple              svn+ssh://home/data/svnroot/hardware/apple
 ./batteries          svn+ssh://home/data/svnroot/hardware/batteries
 #./commodore         svn+ssh://home/data/svnroot/hardware/commodore
 ./cotton-candy       svn+ssh://home/data/svnroot/hardware/cotton-candy
