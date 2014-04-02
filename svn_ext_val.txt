@@ -20,6 +20,7 @@
 # media/             Media
 # memory/            Memory
 # mobos/             Motherboards
+# mouse/             Mouse
 # net/               Network
 # printers/          Printers
 # security/          Security
@@ -40,6 +41,7 @@
 ./media              svn+ssh://home/data/svnroot/hardware/media/media
 ./memory             svn+ssh://home/data/svnroot/hardware/memory/memory
 ./mobos              svn+ssh://home/data/svnroot/hardware/mobos/mobos
+./mouse              svn+ssh://home/data/svnroot/hardware/mouse/mouse
 ./net                svn+ssh://home/data/svnroot/hardware/net/net
 ./power              svn+ssh://home/data/svnroot/hardware/power/power
 ./printers           svn+ssh://home/data/svnroot/hardware/printers/printers
