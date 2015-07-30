@@ -4,18 +4,32 @@
 # by Raymond E. Marcil <marcilr@gmail.com>
 #
 
-
 #
 # List of repo hierarchical directories to checkout under hardware/
 #
 # appliances/        Appliances
 # cables/            Cables
 # chassis/           Chassis
+# commodore          Commodore Amiga Mini PC build.
 # controllers/       Controllers
-# cpu/               AMD, Arm, and Intel cpus 
+#
+# cotton-candy       Cotton Candy, a computer the size of a (big) thumbdrive, is available for
+#                    pre-order and will ship in March. The $199 machine, which runs Ubuntu or
+#                    Android 4, has a 1.2GHz ARM CPU, 1GB of RAM, and HD video acceleration.
+#                    [FXI via Ars Technica]
+#                    http://boingboing.net/2012/02/28/thumbdrive-computer-up-for-pre.html
+#                    http://store.cstick.com/
+#
+# cpu/               AMD, Arm, and Intel cpus
 # displays/          Displays
-# fanless            Fanless machines
+# docs/              Documentation.
+# fanless/           Fanless machines
+# fans/              Fans
 # graphics/          Graphics
+#
+# hhkb/              Happy Hacking Keyboard Lite 2
+#                    http://www.pfusystems.com/hhkeyboard/hhkeyboard.html
+#
 # kvm/               Keyboard Video Mouse (KVM)
 # media/             Media
 # memory/            Memory
@@ -23,51 +37,35 @@
 # mouse/             Mouse
 # net/               Network
 # printers/          Printers
+# rack/              Rack hardware
 # security/          Security
 # sump-pump/         Sump pumps
 # systems            Systems
 # time/              Time
 #
-./appliances         svn+ssh://home/data/svnroot/hardware/appliances/appliances
-./cables             svn+ssh://home/data/svnroot/hardware/cables/cables
-./cpu                svn+ssh://home/data/svnroot/hardware/cpu/cpu
-./kvm                svn+ssh://home/data/svnroot/hardware/kvm/kvm
-./chassis            svn+ssh://home/data/svnroot/hardware/chassis/chassis
-./controllers        svn+ssh://home/data/svnroot/hardware/controllers/controllers
-./displays           svn+ssh://home/data/svnroot/hardware/displays/displays
-./fanless            svn+ssh://home/data/svnroot/hardware/fanless/fanless
-./graphics           svn+ssh://home/data/svnroot/hardware/graphics/graphics
-./media              svn+ssh://home/data/svnroot/hardware/media/media
-./memory             svn+ssh://home/data/svnroot/hardware/memory/memory
-./mobos              svn+ssh://home/data/svnroot/hardware/mobos/mobos
-./mouse              svn+ssh://home/data/svnroot/hardware/mouse/mouse
-./net                svn+ssh://home/data/svnroot/hardware/net/net
-./power              svn+ssh://home/data/svnroot/hardware/power/power
-./printers           svn+ssh://home/data/svnroot/hardware/printers/printers
-./security           svn+ssh://home/data/svnroot/hardware/security/security
-./sump-pump          svn+ssh://home/data/svnroot/hardware/sump-pump/sump-pump
-./systems            svn+ssh://home/data/svnroot/hardware/systems/systems
-./time               svn+ssh://home/data/svnroot/hardware/time/time
-
-#
-# List of subversion repositories to checkout under hardware/
-#
-# commodore          Commodore Amiga Mini PC build.
-# cotton-candy       Cotton Candy, a computer the size of a (big) thumbdrive, is available for
-#                    pre-order and will ship in March. The $199 machine, which runs Ubuntu or
-#                    Android 4, has a 1.2GHz ARM CPU, 1GB of RAM, and HD video acceleration.
-#                    [FXI via Ars Technica]
-#                    http://boingboing.net/2012/02/28/thumbdrive-computer-up-for-pre.html
-#                    http://store.cstick.com/ 
-# docs               Documentation.
-# fans
-# hhk                Happy Hacking Keyboard Lite 2
-#                    http://www.pfusystems.com/hhkeyboard/hhkeyboard.html
-# rack               Rack hardware
-#
-#./commodore         svn+ssh://home/data/svnroot/hardware/commodore
-./cotton-candy       svn+ssh://home/data/svnroot/hardware/cotton-candy
-./docs               svn+ssh://home/data/svnroot/hardware/docs
-./fans               svn+ssh://home/data/svnroot/hardware/fans
-./hhk                svn+ssh://home/data/svnroot/hardware/hhk
-./rack               svn+ssh://home/data/svnroot/hardware/rack
+../../hardware/appliances/appliances       ./appliances
+../../hardware/cables/cables               ./cables
+#../../harware/commodore/commodore          ./commodore
+../../hardware/cpu/cpu                     ./cpu
+../../hardware/kvm/kvm                     ./kvm
+../../hardware/chassis/chassis             ./chassis
+../../hardware/controllers/controllers     ./controllers
+../../hardware/cotton-candy/cotton-candy   ./cotton-candy
+../../hardware/displays/displays           ./displays
+../../hardware/docs/docs                   ./docs
+../../hardware/fanless/fanless             ./fanless
+../../hardware/fans/fans                   ./fans
+../../hardware/graphics/graphics           ./graphics
+../../hardware/hhkb/hhkb                   ./hhkb
+../../hardware/media/media                 ./media
+../../hardware/memory/memory               ./memory
+../../hardware/mobos/mobos                 ./mobos
+../../hardware/mouse/mouse                 ./mouse
+../../hardware/net/net                     ./net
+../../hardware/power/power                 ./power
+../../hardware/printers/printers           ./printers
+../../hardware/rack/rack                   ./rack
+../../hardware/security/security           ./security
+../../hardware/sump-pump/sump-pump         ./sump-pump
+../../hardware/systems/systems             ./systems
+../../hardware/time/time                   ./time
