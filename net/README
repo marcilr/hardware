@@ -4,3 +4,13 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Net
+
+
+Filelist
+========
+links.txt
+  Net related links.
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under net/
+
