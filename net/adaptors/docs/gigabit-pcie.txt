@@ -1,0 +1,24 @@
+gigabit-pcie.txt
+Created Sat Dec 17 17:44:49 AKST 2011
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Gigabit PCIe network adapters.
+
+
+TODO: Which adapters are ESXi compatible?
+
+
+Intel Pro 1000 PT PCIe
+  ports: 1 
+  PCIe: x1
+  interface: 10/100/1000Mbps
+  chipset: Intel 82572EI
+  price: $48
+
+D-Link DGE-560T Gigabit PCI Express Network Adapter
+  ports: 1
+  PCIe: x1
+  interface: 10Base-T, 100Base-TX, 1000Base-T
+  http://www.dlink.com/products/?pid=406
+  price: $32.99 (newegg Apr 21, 2010)
