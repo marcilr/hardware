@@ -8,9 +8,30 @@ Net
 
 Filelist
 ========
+adapters/
+  Network adapters
+
+bluetooth/
+  Bluetooth
+
+dsl/
+  DSL
+  o ACS SR350N DSL Gateway (modem) and configuration.
+
+firewire/
+  Firewire
+
 links.txt
-  Net related links.
+  Net related links
+
+routers/
+  Routers
 
 svn_ext_val.txt
   List of repo hierarchical directories to checkout under net/
 
+switches/
+  Network switches
+
+wifi/
+  Wireless
