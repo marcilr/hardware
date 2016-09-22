@@ -1,0 +1,22 @@
+#
+# svn_ext_val.txt
+# Created Mon Dec 12 15:20:52 AKST 2011
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under adapters/
+#
+# d-link/    D-Link adapeters
+#            Has D-Link DFE-570TX 4-port PCI NIC is used in terminus firewall.
+#
+# intel/     Intel adapters
+#            Has PRO-1000-GT, the Intel PRO/1000 GT Quad Port adapter supports
+#            both PCI-X 1.0 and PCI 2.2 buses.
+#
+# netgear/   Netgear adapters
+#
+./d-link/   svn+ssh://home/data/svnroot/hardware/net/adapters/d-link/d-link
+./intel     svn+ssh://home/data/svnroot/hardware/net/adapters/intel/intel
+./netgear   svn+ssh://home/data/svnroot/hardware/net/adapters/netgear/netgear
