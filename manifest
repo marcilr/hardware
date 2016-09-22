@@ -12,5 +12,27 @@
 # some repos like svn-to-git/ that have acutally dashes in the repo name.
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
+
+# =======================================================
+#
+# Security
+#
+# =======================================================
 ssh://htpc/data/git/hardware/security              security
 ssh://htpc/data/git/hardware/security/cryptokeys   security/cryptokeys 
+
+
+# =======================================================
+#
+# Firewall
+#
+# =======================================================   
+ssh://htpc/data/git/hardware/firewall              firewall
+
+#
+# pfsense
+# Recommended by John Millican <jmillican@gci.com> at
+# GCI Network Services, OSS
+# https://www.pfsense.org/
+#
+ssh://htpc/data/git/hardware/firewall/pfsense      firewall/pfsense
