@@ -1,0 +1,13 @@
+#
+# svn_ext_val.txt
+# Created Mon Dec 19 21:01:14 AKST 2011
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under bluetooth/
+#
+# d-link/   D-link bluetooth usb adapter.
+#
+../../bluetooth/d-link/d-link   ./d-link
