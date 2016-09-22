@@ -36,3 +36,10 @@ ssh://htpc/data/git/hardware/firewall              firewall
 # https://www.pfsense.org/
 #
 ssh://htpc/data/git/hardware/firewall/pfSense      firewall/pfSense
+
+# =======================================================
+#
+# Net
+#
+# =======================================================
+ssh://git@github.com/marcilr/DFE-570TX             net/adaptors/d-link/DFE-570TX
