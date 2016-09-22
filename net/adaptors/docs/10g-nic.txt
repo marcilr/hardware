@@ -1,0 +1,84 @@
+10g-nic.txt
+Created Tue Feb  2 08:11:24 AKST 2010
+by Raymond E. Marcil
+
+
+Dual port 10G cards
+===================
+o Microway TRICOM-X QDR PCIe x8 10G dual port card looks sweet.
+o Myricom  10G-PCIE2-8B2-2S x8 10G dual port card looks sweet.
+
+
+Myricom
+=======
+Myri-10G 10-Gigabit Ethernet Solutions
+for Linux, Windows, Solaris, Mac OS X, FreeBSD, and VMware ESX
+
+For standard TCP/IP and UDP/IP 10-Gigabit Ethernet applications, Myri-10G Network Interface 
+Cards (NICs) and software deliver excellent performance at low cost, and are fully compliant 
+with Ethernet standards.
+
+10G-PCIE2-8B2-2S NIC
+Low-profile (half-height) PCI Express add-in card
+(Standard PCI faceplate version shown)
+$995 list price (SFP+ transceivers sold separately)
+
+SFP+ Optical Fiber Transceivers, 10G-SFP-SR, $250
+SFP+ transceiver for 10GBase-LR (1310nm wavelength), 10G-SFP-LR $600
+
+
+Microway QDR Infiniband Solutions
+=================================
+
+Product          Description                              Size
+-------------------------------------------------------- ---------------------------------
+TRICOM-X QDR     Dual Channel QDR HCA, NodeWatch,         PCIe x8 full height, half length
+                 Switchless Serial Console
+
+FASTREE-QDR 36   36 Port QDR Infiniband Switch, QSFP,     1U height, standard 19" rack.
+                 redundant power supply.
+
+from: fastree_x.pdf
+
+
+Links
+=====
+FasTree-X QDR InfiniBand
+http://www.microway.com/pdfs/fastree_x.pdf
+
+TriCom-X InfiniBand HCA
+Microway's TriCom-X PCI-E card combines a QDR HCA with the two other special resources 
+needed to effectively manage HPC nodes: a BMC and "switchless" ...
+http://www.microway.com/pdfs/tricom.pdf
+
+Microway TriCom-X QDR InfiniBand HCA
+http://www.microway.com/interconnects/
+
+Myricom - 10G-PCIE-8B-2S+E
+Myricom Myri-10G - Network adapter
+PCI Express x8
+10 Gigabit Ethernet
+10 Gigabit Myrinet
+Linux compatible?
+https://shop.bellmicro.com/exec/partInfo/part_detail.tsb?prcpart=MYR10G-PCIE-8B-2S%2BE&categoryid=
+
+Myricom
+Myri-10G 10-Gigabit ethernet solutions
+for Linux, Windows, Solaris, Mac OS X, FreeBSD, and VMware ESX
+http://www.myri.com/Myri-10G/10gbe_solutions.html
+
+Myri-10G "Gen2" (5 GT/s) PCI Express NIC with two SFP+
+network ports for performance and failover (20Gb/s throughput)
+For 10GBase-SR, 10GBase-LR, and Direct Attach
+PCI Express x8 NICs with two network ports for performance and failover
+(Nearly 20 Gb/s throughput)
+http://www.myri.com/Myri-10G/NIC/10G-PCIE2-8B2-2S.html
+
+SFP+ Optical Fiber Transceivers
+850nm 10G-SFP-SR, $250
+1310nm 10G-SFP-LR, $600
+http://www.myri.com/Myri-10G/product_list.html#transceiver-SFP
+
+SFP+ Transceivers
+for 10GBase-SR and 10GBase-LR
+http://www.myri.com/Myri-10G/transceiver/10G-SFP.html
