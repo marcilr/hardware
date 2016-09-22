@@ -35,4 +35,4 @@ ssh://htpc/data/git/hardware/firewall              firewall
 # GCI Network Services, OSS
 # https://www.pfsense.org/
 #
-ssh://htpc/data/git/hardware/firewall/pfsense      firewall/pfsense
+ssh://htpc/data/git/hardware/firewall/pfSense      firewall/pfSense
