@@ -1,0 +1,13 @@
+#
+# svn_ext_val.txt
+# Created Tue Dec 13 08:49:32 AKST 2011
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under netgear/
+#
+# GA311/   Netgear GA311 10/100/1000 Mbps gigabit ethernet adapters.
+#
+./GA311     svn+ssh://home/data/svnroot/hardware/net/adapters/netgear/GA311/GA311
