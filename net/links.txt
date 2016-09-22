@@ -1,0 +1,13 @@
+links.txt
+Created Wed Nov 23 10:47:36 AKST 2011
+by Raymond E. Marcil
+
+
+00NET related links.
+
+
+Links
+=====
+10GbE Cards
+Good selection of PCIe 10Gb ethernet cards. (Mac only)
+http://www.small-tree.com/10GbE_Cards_s/4.htm
