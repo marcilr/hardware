@@ -1,0 +1,7 @@
+routers.txt
+Created Tue Mar 24 14:20:09 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Routers
+
