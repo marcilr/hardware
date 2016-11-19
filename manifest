@@ -24,21 +24,6 @@ ssh://htpc/data/git/hardware/security/cryptokeys   security/cryptokeys
 
 # =======================================================
 #
-# Firewall
-#
-# =======================================================   
-ssh://htpc/data/git/hardware/firewall              firewall
-
-#
-# pfsense
-# Recommended by John Millican <jmillican@gci.com> at
-# GCI Network Services, OSS
-# https://www.pfsense.org/
-#
-ssh://htpc/data/git/hardware/firewall/pfSense      firewall/pfSense
-
-# =======================================================
-#
 # Net
 #
 # =======================================================
