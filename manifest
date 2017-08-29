@@ -32,14 +32,6 @@ ssh://htpc/data/git/hardware/fanless/power             fanless/power
 # =======================================================
 ssh://htpc/data/git/hardware/laptop                    laptop
 
-# =======================================================
-#
-# Security
-#
-# =======================================================
-ssh://htpc/data/git/hardware/security              security
-ssh://htpc/data/git/hardware/security/cryptokeys   security/cryptokeys 
-
 
 # =======================================================
 #
@@ -51,3 +43,12 @@ ssh://git@github.com/marcilr/PRO-1000-GT           net/adaptors/intel/PRO-1000-G
 ssh://git@github.com/marcilr/GA311                 net/adaptors/netgear/GA311
 ssh://git@github.com/marcilr/DBT-120               net/bluetooth/d-link/DBT-120
 ssh://git@github.com/marcilr/ubiquiti              net/routers/ubiquiti
+
+
+# =======================================================
+#
+# Security
+#
+# =======================================================
+ssh://htpc/data/git/hardware/security              security
+ssh://htpc/data/git/hardware/security/cryptokeys   security/cryptokeys
