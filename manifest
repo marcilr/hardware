@@ -17,11 +17,4 @@ ssh://htpc/data/git/hardware/fanless/fanless   fanless
 ssh://htpc/data/git/hardware/laptop            laptop
 ssh://git@github.com/marcilr/motherboard       motherboard
 ssh://git@github.com/marcilr/net               net
-
-# =======================================================
-#
-# Security
-#
-# =======================================================
-ssh://htpc/data/git/hardware/security              security
-ssh://htpc/data/git/hardware/security/cryptokeys   security/cryptokeys
+ssh://htpc/data/git/hardware/security          security
