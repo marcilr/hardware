@@ -33,6 +33,9 @@ ssh://htpc/data/git/hardware/fanless/power             fanless/power
 ssh://htpc/data/git/hardware/laptop                    laptop
 
 
+# Motherboard
+ssh://git@github.com/marcilr/motherboard   motherboard
+
 # =======================================================
 #
 # Net
