@@ -13,20 +13,10 @@
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
 
-# =======================================================
-#
-# Fanless
-#
-# =======================================================
-ssh://htpc/data/git/hardware/fanless/fanless           fanless
-ssh://htpc/data/git/hardware/fanless/cappuccinopc      fanless/cappuccinopc 
-ssh://htpc/data/git/hardware/fanless/chassis           fanless/chassis
-ssh://htpc/data/git/hardware/fanless/global-american   fanless/global-american 
-ssh://htpc/data/git/hardware/fanless/power             fanless/power
-
-ssh://htpc/data/git/hardware/laptop        laptop
-ssh://git@github.com/marcilr/motherboard   motherboard
-ssh://git@github.com/marcilr/net           net
+ssh://htpc/data/git/hardware/fanless/fanless   fanless
+ssh://htpc/data/git/hardware/laptop            laptop
+ssh://git@github.com/marcilr/motherboard       motherboard
+ssh://git@github.com/marcilr/net               net
 
 # =======================================================
 #
