@@ -18,3 +18,4 @@ ssh://htpc/data/git/hardware/laptop            laptop
 ssh://git@github.com/marcilr/motherboard       motherboard
 ssh://git@github.com/marcilr/net               net
 ssh://htpc/data/git/hardware/security          security
+ssh://git@github.com/marcilr/usb               usb
