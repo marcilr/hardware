@@ -13,6 +13,7 @@
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
 
+<<<<<<< HEAD
 # =======================================================
 #
 # Fanless
@@ -52,3 +53,10 @@ ssh://git@github.com/marcilr/PRO-1000-GT           net/adaptors/intel/PRO-1000-G
 ssh://git@github.com/marcilr/GA311                 net/adaptors/netgear/GA311
 ssh://git@github.com/marcilr/DBT-120               net/bluetooth/d-link/DBT-120
 ssh://git@github.com/marcilr/ubiquiti              net/routers/ubiquiti
+=======
+ssh://htpc/data/git/hardware/fanless/fanless   fanless
+ssh://htpc/data/git/hardware/laptop            laptop
+ssh://git@github.com/marcilr/motherboard       motherboard
+ssh://git@github.com/marcilr/net               net
+ssh://htpc/data/git/hardware/security          security
+>>>>>>> b26486dc5cb4764f9309158e94a8779c04d3c344
