@@ -13,6 +13,7 @@
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
 
+ssh://git@github.com/marcilr/batteries             batteries
 ssh://htpc/data/git/hardware/fanless/fanless       fanless
 ssh://htpc/data/git/hardware/laptop                laptop
 ssh://git@github.com/marcilr/motherboard           motherboard
