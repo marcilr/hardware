@@ -1,37 +1,35 @@
 README
-Created Wed Nov 23 10:46:49 AKST 2011
+Created Tue Feb  7 07:54:39 AKST 2012
 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Net
+Networks details and information.
 
 
 Filelist
 ========
-adapters/
-  Network adapters
+00ARCHIVES/
+  Archives
 
-bluetooth/
-  Bluetooth
+dig/
+  DNS lookup utility
 
-dsl/
-  DSL
-  o ACS SR350N DSL Gateway (modem) and configuration.
+nmap/
+  nmap - Network exploration tool and security / port scanner
 
-firewire/
-  Firewire
+remote-desktop/
+  Remote Desktop
 
-links.txt
-  Net related links
+vnc/
+  Virtual Network Computing (VNC) is a graphical desktop sharing system that
+  uses the Remote Frame Buffer protocol (RFB) to remotely control another
+  computer.  It transmits the keyboard and mouse events from one computer to
+  another, relaying the graphical screen updates back in the other direction,
+  over a network.
+  http://en.wikipedia.org/wiki/Virtual_Network_Computing
 
-routers/
-  Routers
-
-svn_ext_val.txt
-  List of repo hierarchical directories to checkout under net/
-
-switches/
-  Network switches
-
-wifi/
-  Wireless
+vpn/
+  A virtual private network (VPN) is a network that uses primarily public
+  telecommunication infrastructure, such as the Internet, to provide remote
+  offices or traveling users an access to a central organizational network.
+  http://en.wikipedia.org/wiki/Virtual_private_network
