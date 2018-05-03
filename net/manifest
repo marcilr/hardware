@@ -1,0 +1,89 @@
+# manifest
+# Created Fri Nov 18 15:49:27 AKST 2016
+# Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Manifest for resync application
+#
+# To my knowledge GitHub does not support hierarchical repositories outside
+# of perhaps git submodules.  However, submodules are not so good so I've
+# implemented hierarchical repositories using repo names and this manifest.
+#
+# The dashes in the repo names represent directory separation.  There are
+# some repos like svn-to-git/ that have acutally dashes in the repo name.
+# Have not escaped these dashes in any way.   Might do this at some point.
+#
+
+# =====================================================================
+# =====================================================================
+#
+# Private htpc repositories
+# Public GitHub repositories
+#
+# =====================================================================
+# =====================================================================
+
+
+# CIFS
+ssh://htpc/data/git/net/cifs   cifs
+
+# Firewall
+ssh://htpc/data/git/net/firewall   firewall
+
+#
+# pfsense
+# Recommended by John Millican <jmillican@gci.com> at
+# GCI Network Services, OSS
+# https://www.pfsense.org/
+#
+ssh://htpc/data/git/net/firewall/pfSense   firewall/pfSense
+
+#
+# iproute2 is the Linux networking toolkit that replaced
+# net-tools (ifconfig, route, arp etc.)
+#
+ssh://htpc/data/git/net/iproute2   iproute2
+
+# Mail
+#ssh://htpc/data/git/net/mail/mail   mail
+
+# nmap - Network exploration tool and security / port scanner
+git@github.com:marcilr/nmap   nmap
+
+# Remote desktop
+ssh://git@github.com/marcilr/remote-desktop   remote-desktop
+
+# Route
+ssh://htpc/data/git/net/route   route
+
+# SSH Tunneling
+ssh://htpc/data/git/net/ssh-tunneling   ssh-tunneling
+
+# VNC
+ssh://htpc/data/git/net/vnc   vnc
+
+# VPN
+ssh://git@github.com/marcilr/vpn   vpn
+ssh://htpc/data/git/net/vpn/openvpn   vpn/openvpn
+
+# vsftpd
+ssh://git@github.com/marcilr/vsftpd   vsftpd
+
+
+# ===================================
+#
+# Web
+#
+# ===================================
+ssh://htpc/data/git/net/web/web   web
+
+# Amazon web services
+ssh://htpc/data/git/net/web/aws   web/aws
+
+# Chrome
+ssh://htpc/data/git/net/web/chrome/chrome   web/chrome
+
+# Linode
+ssh://htpc/data/git/net/web/linode   web/linode
+
+# WiFi
+git@github.com:marcilr/wifi   wifi
