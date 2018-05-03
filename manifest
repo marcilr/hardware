@@ -24,7 +24,6 @@ ssh://git@github.com/marcilr/batteries             batteries
 ssh://htpc/data/git/hardware/fanless/fanless           fanless
 ssh://htpc/data/git/hardware/fanless/cappuccinopc      fanless/cappuccinopc
 ssh://htpc/data/git/hardware/fanless/chassis           fanless/chassis
-ssh://htpc/data/git/hardware/fanless/chassis/hdplex    fanless/chassis/hdplex
 ssh://htpc/data/git/hardware/fanless/global-american   fanless/global-american
 
 ssh://htpc/data/git/hardware/laptop                laptop
