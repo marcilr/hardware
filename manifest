@@ -26,6 +26,7 @@ ssh://htpc/data/git/hardware/fanless/cappuccinopc      fanless/cappuccinopc
 ssh://htpc/data/git/hardware/fanless/chassis           fanless/chassis
 ssh://htpc/data/git/hardware/fanless/global-american   fanless/global-american
 
+ssh://git@github.com/marcilr/mobos                     mobos
 ssh://git@github.com/marcilr/motherboard               motherboard
 
 # =======================================================
