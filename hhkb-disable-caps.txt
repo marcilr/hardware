@@ -1,0 +1,16 @@
+hhkb-disable-caps.txt
+Created Tue Apr  9 19:41:29 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+To disable the cap lock on Happy Hacker keyboard:
+
+Press Shift + Fn + Tab  <=== NOTE: that is the *right* shift key.
+
+
+Links
+=====
+How to Disable Caps Lock on Happy Hacking Keyboard
+Takashi Yoshida, January 16, 2017
+https://takashiyoshida.org/blog/2017/01/16/how-to-toggle-caps-lock-on-hhkb.html
+
