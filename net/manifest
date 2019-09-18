@@ -23,8 +23,8 @@
 # =====================================================================
 ssh://git@github.com/marcilr/adapters.git        adapters
 ssh://git@github.com/marcilr/bluetooth.git       bluetooth
-ssh://htpc/data/git/net/cifs                     cifs
-ssh://htpc/data/git/net/firewall                 firewall
+#ssh://htpc/data/git/net/cifs                     cifs
+#ssh://htpc/data/git/net/firewall                 firewall
 
 #
 # pfsense
@@ -32,24 +32,24 @@ ssh://htpc/data/git/net/firewall                 firewall
 # GCI Network Services, OSS
 # https://www.pfsense.org/
 #
-ssh://htpc/data/git/net/firewall/pfSense         firewall/pfSense
+#ssh://htpc/data/git/net/firewall/pfSense         firewall/pfSense
 
 #
 # iproute2 is the Linux networking toolkit that replaced
 # net-tools (ifconfig, route, arp etc.)
 #
-ssh://htpc/data/git/net/iproute2                  iproute2
+#ssh://htpc/data/git/net/iproute2                  iproute2
 #ssh://htpc/data/git/net/mail/mail                mail
 git@github.com:marcilr/nmap.git                   nmap
 ssh://git@github.com/marcilr/remote-desktop.git   remote-desktop
-ssh://htpc/data/git/net/route                     route
-ssh://htpc/data/git/net/ssh-tunneling             ssh-tunneling
-ssh://htpc/data/git/net/vnc                       vnc
+#ssh://htpc/data/git/net/route                     route
+#ssh://htpc/data/git/net/ssh-tunneling             ssh-tunneling
+#ssh://htpc/data/git/net/vnc                       vnc
 ssh://git@github.com/marcilr/vpn.git              vpn
-ssh://htpc/data/git/net/vpn/openvpn               vpn/openvpn
+#ssh://htpc/data/git/net/vpn/openvpn               vpn/openvpn
 ssh://git@github.com/marcilr/vsftpd.git           vsftpd
-ssh://htpc/data/git/net/web/web                   web
-ssh://htpc/data/git/net/web/aws                   web/aws
-ssh://htpc/data/git/net/web/chrome/chrome         web/chrome
-ssh://htpc/data/git/net/web/linode                web/linode
+#ssh://htpc/data/git/net/web/web                   web
+#ssh://htpc/data/git/net/web/aws                   web/aws
+#ssh://htpc/data/git/net/web/chrome/chrome         web/chrome
+#ssh://htpc/data/git/net/web/linode                web/linode
 git@github.com:marcilr/wifi.git                   wifi
