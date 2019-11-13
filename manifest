@@ -26,20 +26,11 @@ ssh://git@github.com/marcilr/docks                     docks
 #ssh://htpc/data/git/hardware/fanless/chassis           fanless/chassis
 #ssh://htpc/data/git/hardware/fanless/global-american   fanless/global-american
 
-ssh://git@github.com/marcilr/mobos                     mobos
-ssh://git@github.com/marcilr/net                       net
+ssh://git@github.com/marcilr/mobos                      mobos
+ssh://git@github.com/marcilr/net                        net
+ssh://git@github.com/marcilr/mobos                      mobos
 
-# =======================================================
-#
-# Net
-#
-# =======================================================
-ssh://git@github.com/marcilr/DFE-570TX             net/adaptors/d-link/DFE-570TX
-ssh://git@github.com/marcilr/PRO-1000-GT           net/adaptors/intel/PRO-1000-GT
-ssh://git@github.com/marcilr/GA311                 net/adaptors/netgear/GA311
-ssh://git@github.com/marcilr/DBT-120               net/bluetooth/d-link/DBT-120
-ssh://git@github.com/marcilr/mobos                 mobos
-ssh://git@github.com/marcilr/ubiquiti              net/routers/ubiquiti
+#ssh://git@github.com/marcilr/ubiquiti              net/routers/ubiquiti
 
 #ssh://htpc/data/git/hardware/security              security
 #ssh://htpc/data/git/hardware/security/cryptokeys   security/cryptokeys
