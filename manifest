@@ -30,8 +30,6 @@ ssh://git@github.com/marcilr/mobos                      mobos
 ssh://git@github.com/marcilr/net                        net
 ssh://git@github.com/marcilr/mobos                      mobos
 
-#ssh://git@github.com/marcilr/ubiquiti              net/routers/ubiquiti
-
 #ssh://htpc/data/git/hardware/security              security
 #ssh://htpc/data/git/hardware/security/cryptokeys   security/cryptokeys
 ssh://git@github.com/marcilr/usb                   usb
