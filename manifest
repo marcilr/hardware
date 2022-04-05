@@ -32,7 +32,8 @@ ssh://git@github.com/marcilr/fanless                    fanless
 ssh://git@github.com/marcilr/mobos                      mobos
 ssh://git@github.com/marcilr/net                        net
 ssh://git@github.com/marcilr/mobos                      mobos
+ssh://git@github.com/marcilr/printers                   printers
 
-#ssh://htpc/data/git/hardware/security              security
-#ssh://htpc/data/git/hardware/security/cryptokeys   security/cryptokeys
-ssh://git@github.com/marcilr/usb                   usb
+#ssh://htpc/data/git/hardware/security                  security
+#ssh://htpc/data/git/hardware/security/cryptokeys       security/cryptokeys
+ssh://git@github.com/marcilr/usb                        usb
